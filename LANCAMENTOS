@@ -11,6 +11,16 @@ by INFOTEC
 
 
 <item>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow] (2019)[/COLOR] - [COLOR orange] (HD)[/COLOR] - DUBLADO[/B]</Title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - link 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title></title>
 <link>https://</link>
 <thumbnail></thumbnail>
