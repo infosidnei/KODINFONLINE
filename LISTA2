@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[B][COLOR red]ACCAO[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Accao</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE01_ACCAO.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]AVENTURA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Aventura</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE02_AVENTURA.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]COMEDIA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Comedia</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE03_COMEDIA.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]CRIME[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Crime</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE04_CRIME.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]DRAMA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Drama</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE05_DRAMA.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]SCI-FI[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Ficcção Cientifica</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE06_SCIFI.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]SUSPENSE[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Suspense</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE07_SUSPENSE.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red]TERROR[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static.posters.cz/image/750/posters/spiral-wolf-dreams-i10931.jpg<</thumbnail>
+<fanart>https://raw.githubusercontent.com/teamblue65/FAN/master/CINEMA.jpg</fanart>
+<info>Género Terror</info>
+<externallink>https://raw.githubusercontent.com/teamblue65/LISTASKodi/master/M06_CINE08_TERROR.xml</externallink>
+</item>
