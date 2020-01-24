@@ -13,6 +13,22 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TOP FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601401.us.archive.org/6/items/bemvindos_20200121/lancamentos.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TOPFILMES</externallink>
+<fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES LANÇAMENTOS EM BREVE - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NACIONAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
