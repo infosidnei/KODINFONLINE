@@ -1,11 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="Animal Planet" tvg-logo="https://i.imgur.com/81BajK1.jpg" group-title="CANAIS: DOCUMENTARIOS", ANIMAL PLANET
-https://canaisgratis.info/85ef4402-a5e3-435a-a440-134c48735907
-
-#EXTINF:-1 tvg-ID="Space" tvg-logo="https://i.imgur.com/PkFRxnM.jpg" group-title="CANAIS: FILMES E SERIES", SPACE
-blob:https://canaisgratis.info/1325e8ba-55df-4727-b5ec-58f2fafde4f3
-
-#EXTINF:-1 tvg-ID="MAX Prime" tvg-logo="https://i.imgur.com/K1IAoGY.jpg" group-title="CANAIS: FILMES E SERIES", MAX PRIME
-blob:https://canaisgratis.info/d2c07772-5f43-4858-825c-5bbd7823910f
-
+https://live.multicanais.com/mylive/sportvhd/video.m3u8?md5=1memhaMDkpW4l0k0WCTWtg&expires=1579905183
