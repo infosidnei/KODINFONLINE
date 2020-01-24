@@ -1,3 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-logo="https://i.imgur.com/81BajK1.jpg" group-title="CANAIS: DOCUMENTARIOS", ANIMAL PLANET
+https://canaisgratis.info/85ef4402-a5e3-435a-a440-134c48735907
+
+#EXTINF:-1 tvg-ID="Space" tvg-logo="https://i.imgur.com/PkFRxnM.jpg" group-title="CANAIS: FILMES E SERIES", SPACE
+https://canaisgratis.info/cd333e12-b3c2-444b-80a5-e02cbca06b4e
+
+#EXTINF:-1 tvg-ID="MAX Prime" tvg-logo="https://i.imgur.com/K1IAoGY.jpg" group-title="CANAIS: FILMES E SERIES", MAX PRIME
+blob:https://canaisgratis.info/d2c07772-5f43-4858-825c-5bbd7823910f
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 <channel>
 <name>[COLOR  yellow][B] E[/B][/COLOR][B][COLOR lime]SPORT[/B][/COLOR]</name>
 <thumbnail>https://cld.pt/dl/download/35b2848a-56ba-4e0d-88f1-d1db139ea91f/Desporto%202.jpg</thumbnail>
