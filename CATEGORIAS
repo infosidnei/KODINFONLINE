@@ -16,7 +16,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/tvshows.png</thumbnail>
+<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/SERIESCATEGORIAS</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
 <info>
@@ -31,7 +31,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV ONLINE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/channels.png</thumbnail>
+<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/tvonlines.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
 <info>
@@ -45,7 +45,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CINEMA EM CASA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601509.us.archive.org/23/items/fanart_20200125/cinemaemcasa.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
 <info>
