@@ -1,33 +1,29 @@
-<item>
-<title>- > NOVAS SÉRIES < -</title>
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]NOVAS SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/novasseries.png</thumbnail>
-<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/NOVASSERIES</link>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/NOVASSERIES</externallink>
+<fanart>https://ia801509.us.archive.org/23/items/fanart_20200125/novasseries.png</fanart>
 <info>
 
-by INFOTEC
-[COLOR deeppink]1[/COLOR] > NOVAS SÉRIES < [COLOR deeplnk]1[/COLOR]</info>
-</item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[COLOR deeppink]|[/COLOR] - NOVAS SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
-<item>
-<title>- > TOP SÉRIES < -</title>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]TOP SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/topseries.png</thumbnail>
-<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</link>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/NOVASSERIES</externallink>
+<fanart>https://ia801509.us.archive.org/23/items/fanart_20200125/novasseries.png</fanart>
 <info>
 
-by INFOTEC
-[COLOR deeppink]1[/COLOR] > TOP SÉRIES < [COLOR deeplnk]1[/COLOR]</info>
-</item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[COLOR deeppink]|[/COLOR] - NOVAS SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
-<item>
-<title>- > SÉRIES < -</title>
-<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/series.png</thumbnail>
-<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</link>
-<info>
-
-by INFOTEC
-[COLOR deeppink]1[/COLOR] >SÉRIES < [COLOR deeplnk]1[/COLOR]</info>
-</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
