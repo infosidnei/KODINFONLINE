@@ -1,23 +1,33 @@
-<channels>
-<channel>
-<name>THE WITCHER</name>
-<thumbnail>https://image.tmdb.org/t/p/w1280/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/THEWITCHER</externallink>
-<fanart>https://image.tmdb.org/t/p/original/s56eyXy8rADp5DpZknfe2HXq4u4.jpg</fanart>
+<item>
+<title>- > NOVAS SÉRIES < -</title>
+<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/novasseries.png</thumbnail>
+<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</link>
 <info>
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>The I-Land (2019)</name>
-<thumbnail>https://image.tmdb.org/t/p/w1280/Muev370hN3vdjGsC1ip1HcWqbT.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/THEILAND</externallink>
-<fanart>https://image.tmdb.org/t/p/original/jHF1ys6WjpKpgj3JPTCP65pN96v.jpg</fanart>
+by INFOTEC
+[COLOR deeppink]1[/COLOR] > NOVAS SÉRIES < [COLOR deeplnk]1[/COLOR]</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>- > TOP SÉRIES < -</title>
+<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/topseries.png</thumbnail>
+<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</link>
 <info>
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
+by INFOTEC
+[COLOR deeppink]1[/COLOR] > TOP SÉRIES < [COLOR deeplnk]1[/COLOR]</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>- > SÉRIES < -</title>
+<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/series.png</thumbnail>
+<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</link>
+<info>
+
+by INFOTEC
+[COLOR deeppink]1[/COLOR] > SÉRIES < [COLOR deeplnk]1[/COLOR]</info>
+</item>
