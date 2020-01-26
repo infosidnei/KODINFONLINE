@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > TV ONLINE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/tvonlines.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
+<fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/23/items/fanart_20200125/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES</externallink>
@@ -26,20 +41,6 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > TV ONLINE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/tvonlines.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
-<fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
