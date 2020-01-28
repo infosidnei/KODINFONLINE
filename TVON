@@ -1,10 +1,18 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 1 CANAIS TV[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 1 CANAIS TV ON [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/8/items/lancamentos_20200121/Onlinetv.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CANAISONTV</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR] [COLOR yellow]-TESTE IPTV OU P2P JM SERVICO [/COLOR] [COLOR fuchsia]- WHATSAPP - [/COLOR]-12982190306-[COLOR deeppink]|[/COLOR]</info>
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 2 JM CANAIS ON[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/8/items/lancamentos_20200121/Onlinetv.png</thumbnail>
+<externallink></externallink>
+<fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
+<info>
 
 <channels>
 <channel>
