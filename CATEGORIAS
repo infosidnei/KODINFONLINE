@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > TV ONLINE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > TV ONLINE < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/tvonlines.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
-<fanart>https://ia801406.us.archive.org/8/items/lancamentos_20200121/fanart.jpg</fanart>
+<fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
 <info>
 
 
@@ -15,10 +15,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > FILMES < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/23/items/fanart_20200125/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES</externallink>
-<fanart>https://ia801406.us.archive.org/8/items/lancamentos_20200121/fanart.jpg</fanart>
+<fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
 <info>
 
 
@@ -30,10 +30,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > SÉRIES [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > SÉRIES < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/series</externallink>
-<fanart>https://ia801406.us.archive.org/8/items/lancamentos_20200121/fanart.jpg</fanart>
+<fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
 <info>
 
 
@@ -48,7 +48,7 @@
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > CINEMA EM CASA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/23/items/fanart_20200125/cinemaemcasa.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
-<fanart>https://ia801406.us.archive.org/8/items/lancamentos_20200121/fanart.jpg</fanart>
+<fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
 <info>
 
 
