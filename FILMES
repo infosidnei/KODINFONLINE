@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]LANÇAMENTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]LANÇAMENTOS[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/movieslancamentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]TOP FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]TOP FILMES[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/topfilmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TOPFILMES</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]EM DESENVOLVIMENTO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]EM DESENVOLVIMENTO[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/movies.png</thumbnail>
 <externallink>https://pastebin.com/raw/V402BfWd</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]>>LHMTv FILMES<< EM TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]>>LHMTv FILMES<< EM TESTE[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/movies.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LISTATESTE</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
@@ -61,7 +61,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]>>FILMES<< EM TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]>>FILMES<< EM TESTE[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/movies.png</thumbnail>
 <externallink>https://dl.dropboxusercontent.com/s/643i23s0u6rvj6j/filmes.m3u?dl=0</externallink>
 <fanart>https://ia801401.us.archive.org/6/items/bemvindos_20200121/fanart.jpg</fanart>
