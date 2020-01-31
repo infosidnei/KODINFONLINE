@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lightcyan]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > FILMES < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR lightcyan]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > FILMES < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/23/items/fanart_20200125/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES</externallink>
 <fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > SÉRIES < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > SÉRIES < [/COLOR] [COLOR orangered]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/23/items/fanart_20200125/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/series</externallink>
 <fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
@@ -45,14 +45,12 @@
 
 <channels>
 <channel>
-<name>[COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > CINEMA EM CASA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] > CINEMA EM CASA[/COLOR] [COLOR orangered]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/23/items/fanart_20200125/cinemaemcasa.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://ia801502.us.archive.org/14/items/infotec/fanart.jpg</fanart>
-<info>
 
-
-[COLOR deeppink]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<
