@@ -1,25 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="encurtador.com.br/qY129" group-title="Filmes" ,BadBoys for Life LEG
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/badboyfree/badboyfree.png" group-title="Filmes" ,BadBoys for Life LEG
 http://topvod.tk/LHMTvPlay/BadBoys-for-Life?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Jumanji: The Next Level LEG
+
+#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/5/items/doispapas/Jumanji%20The%20Next%20Level%20LEG.png" group-title="Filmes" ,Jumanji: The Next Level LEG
 http://topvod.tk/LHMTvPlay/Jumanji-3?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,1917 LEG
+
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/5/items/doispapas/1917.png" group-title="Filmes" ,1917 LEG
 http://topvod.tk/LHMTvPlay/1917?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Herdeiro das Drogas
+
+#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/5/items/doispapas/O%20Herdeiro%20das%20Drogas.png" group-title="Filmes" ,O Herdeiro das Drogas
 http://hvergelmir.lhmtv.gq/stream/filmes/Inherit.the.Viper2020dub.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Frozen 2 LEG
+
+#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/5/items/doispapas/Frozen.png" group-title="Filmes" ,Frozen 2 LEG
 http://hvergelmir.lhmtv.gq/stream/filmes/frozen.2.2019.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,El Camino: Um Filme de Breaking Bad
+
+#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/5/items/doispapas/El%20Camino.png" group-title="Filmes" ,El Camino: Um Filme de Breaking Bad
 http://hvergelmir.lhmtv.gq/vod/server2/El.camino.a.breaking.bad.movie.2019.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Dois Papas
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/doispapas/DoisPapas.png" group-title="Filmes" ,Dois Papas
 http://hvergelmir.lhmtv.gq/vod/filmes/The.two.popes.2019.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Code 8: Renegados
+
+#EXTINF:-1 tvg-logo="https://ia601501.us.archive.org/5/items/doispapas/Code8.png" group-title="Filmes" ,Code 8: Renegados
 http://hvergelmir.lhmtv.gq/vod/filmes/Code.8.2019.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Esquadrao 6 <<<<<<<<<<<<<<feito imagen
+
+#EXTINF:-1 tvg-logo="https://ia801501.us.archive.org/5/items/doispapas/Esquadrao%206.png" group-title="Filmes" ,Esquadrao 6 <<<<<<<<<<<<<<feito imagen
 http://hvergelmir.lhmtv.gq/vod/filmes/esquadrao6.mp4?LHMTv
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Era uma Vez em… Hollywood
 http://midgard.lhmtv.gq/filmes/eraumavezemhollywood-dub-720p.mp4?LHMTv
+
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Klaus
 http://midgard.lhmtv.gq/filmes/klaus-dub-720p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,It: A Coisa – Capitulo 2 HD SRv1
