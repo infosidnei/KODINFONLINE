@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://nada a ver="" group-title="",[B][COLOR gold]$$$$[/COLOR][COLOR yellow][/COLOR][COLOR gold]$$$$[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://nada a ver="" group-title="",[B][COLOR gold][/COLOR][COLOR yellow][/COLOR][COLOR gold][/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=ALADO&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/sitefeminino10/4olVMzsFiq/3428
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-id="" tvg-logo="http://nada a ver" tvg-logo="" group-title="",[B][COLOR gold]$$$$[/COLOR][COLOR lime]Em TESTES[/COLOR][COLOR gold]$$$$[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="http://nada a ver" tvg-logo="" group-title="",[B][COLOR gold][/COLOR][COLOR lime]TESTES[/COLOR][COLOR gold][/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=ALADO&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
