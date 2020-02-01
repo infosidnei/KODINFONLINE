@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/a31e53ca-3048-4f38-bcf0-15796a58ffa6/Brasil.jpg" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] BRASIL [/COLOR][COLOR limegreen] =====[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://nada a ver="" group-title="",[B][COLOR gold]$$$$[/COLOR][COLOR yellow][/COLOR][COLOR gold]$$$$[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=ALADO&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/sitefeminino10/4olVMzsFiq/3428
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/dced6044-624e-462e-9299-f08cc7c02a6a/actualizado.jpg" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ACTUALIZADO EM 01.02.2020[/COLOR][COLOR limegreen] =====[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="http://nada a ver" tvg-logo="" group-title="",[B][COLOR gold]$$$$[/COLOR][COLOR lime]Em TESTES[/COLOR][COLOR gold]$$$$[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=ALADO&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
