@@ -29,6 +29,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
 <channels>
 <channel>
 <name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]>>FILMES<< EM TESTE[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
@@ -41,9 +42,10 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]FILMES testes[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]JM FILMES[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMFILMES
+</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>
 
