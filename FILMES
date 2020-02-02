@@ -41,9 +41,9 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]FILMES EM DESTAQUE[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]FILMES testes[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
-<externallink>https://pastebin.com/raw/DQ1FjYHL&quot</externallink>
+<externallink></externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>
 
@@ -51,17 +51,4 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]MEUS TESTES[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/meusteste
-</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
-
-[COLOR deeppink]|[/COLOR] - TESTES - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
