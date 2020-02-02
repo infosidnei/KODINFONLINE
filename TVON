@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR] [COLOR deepskyblue]JM-2-CANAIS [COLOR red]TV teste [/COLOR][/COLOR] [COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
+<name>[COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR] [COLOR deepskyblue]JM-2-CANAIS [COLOR red]TESTES[/COLOR][/COLOR] [COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CANAISONTV</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -20,30 +20,13 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR] [COLOR deepskyblue]JM-3-CANAIS [COLOR red]TV OFF [/COLOR][/COLOR] [COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR] [COLOR deepskyblue]JM-3-CANAIS [COLOR red]TESTES[/COLOR][/COLOR] [COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
 <externallink>https://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR] [COLOR yellow]-TESTE IPTV OU P2P JM SERVICO [/COLOR] [COLOR fuchsia]- WHATSAPP - [/COLOR]-12982190306-[COLOR deeppink]|[/COLOR]</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-<channels>
-<channel>
-<name>[COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 1[/COLOR] [COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/ZU2</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
-
-<channels>
-<channel>
-<name>[COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 2[/COLOR] [COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://pastebin.com/raw/57U3vnUp</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
 
 <channels>
 <channel>
@@ -53,38 +36,8 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 4[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://pastebin.com/raw/De4hredm</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
 
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]SERVIDOR CANAL TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://pastebin.com/raw/aJeviKyJ</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]- CANAIS TV 1 -[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://dl.dropboxusercontent.com/s/kpu84bzt2optaaa/seridor%201%20alado%20tv.m3u?dl=0&export=download</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]- CANAIS TV 04 -[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/minhalista</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
 <channel>
