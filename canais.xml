@@ -1,0 +1,15 @@
+<streamingInfos>
+#EXTINF:-1:INFOTEC IPTV - CANAL 4FUN
+
+
+<item>
+<title>INFOTEC IPTV - CANAL 4FUN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cloud-nany.cc:80/mau2020/mau2121/58976</link>
+<item>
+<title>Canal X</title>
+<link>plugin://plugin.video.f4mTester/?url=canalX.ts</link>
+<item>
+<title>Canal Y</title>
+<link>plugin://plugin.video.f4mTester/?url=canalY.ts</link>
+<item>
+<title>Canal Z</title>
