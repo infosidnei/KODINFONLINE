@@ -1,19 +1,8 @@
-#EXTM3U
-
-#EXTINF:-1:PT:,RTP 1 FHD 
-
-plugin://plugin.video.f4mTester/?name=FLECHANEGRA&streamtype=HLSRETRY&amp;url=http://mytv.fun:8080/live/SelmaVajraca/r3b65uwt3r/7459.m3u8
-
-
-#EXTINF:-1:INFOTEC IPTV - CANAL 4FUN
-plugin://plugin.video.f4mTester/?url=http://cloud-nany.cc:80/mau2020/mau2121/42525
 <streamingInfos>
-<title>INFOTEC IPTV -GLOBO SP 4K UHD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cloud-nany.cc:80/mau2020/mau2121/42525</link>
 
 <item>
-<title>INFOTEC IPTV - CANAL 4FUN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cloud-nany.cc:80/mau2020/mau2121/58976</link>
+<title>INFOTEC IPTV - JURASSIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://webtvcde.com/Filmes/Dublados/Jurassic.World.mkv</link>
 <item>
 <title>Canal X</title>
 <link>plugin://plugin.video.f4mTester/?url=canalX.ts</link>
