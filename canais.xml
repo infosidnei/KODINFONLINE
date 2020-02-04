@@ -1,6 +1,7 @@
-<streamingInfos>
+#EXTM3U
 #EXTINF:-1:INFOTEC IPTV - CANAL 4FUN
-  
+plugin://plugin.video.f4mTester/?url=http://cloud-nany.cc:80/mau2020/mau2121/42525  
+<streamingInfos>
 <title>INFOTEC IPTV -GLOBO SP 4K UHD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://cloud-nany.cc:80/mau2020/mau2121/42525</link>
 
