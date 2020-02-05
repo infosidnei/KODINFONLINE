@@ -20,11 +20,41 @@
 
 <channels>
 <channel>
+<name>[COLOR gold]FILMES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>CANAIS DOCUMENTARIOS</info>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR gold]FILME E SERIES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>CANAIS FILMES E SÉRIES</info>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
 <name>[COLOR gold]DOCUMENTÁRIOS[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DOCUMENTARIOS</info>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR gold]ESPORTES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>CANAIS ESPORTE</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -36,5 +66,14 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS VARIEDADES</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR gold]INFATIL[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>CANAIS INFATIS</info>
+
 
