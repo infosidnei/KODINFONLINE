@@ -52,3 +52,17 @@
 </channel>
 </channels>
 
+
+>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR lime]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR deepskyblue]FILMES PARA TESTES[/COLOR][COLOR yellow]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/parateste</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - FILMES Variados - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
