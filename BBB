@@ -1,37 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1, "BBB 10" 
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 1 l
 http://srvuhd.top:80/198455/198455/50480
 
-#EXTINF:-1, "BBB 3"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 2 l
 http://srvuhd.top:80/198455/198455/50477
 
-#EXTINF:-1, "BBB 4"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 3 l
 http://srvuhd.top:80/198455/198455/50478
 
-#EXTINF:-1, "BBB 5"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 4 l
 http://srvuhd.top:80/198455/198455/50473
 
-#EXTINF:-1, "BBB 6"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 5 l
 http://srvuhd.top:80/198455/198455/50474
 
-#EXTINF:-1, "BBB 7"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 6 l
 http://srvuhd.top:80/198455/198455/50475
 
-#EXTINF:-1, "BBB 8"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 7 l
 http://srvuhd.top:80/198455/198455/50476
 
-#EXTINF:-1, "BBB 9"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l 8 l
 http://srvuhd.top:80/198455/198455/50479
 
-#EXTINF:-1, "BBB FHD"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l FHD l
 http://srvuhd.top:80/198455/198455/50483
 
-#EXTINF:-1, "BBB HD"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l HD l
 http://srvuhd.top:80/198455/198455/50471
 
-#EXTINF:-1, "BBB HD"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l HD l
 http://srvuhd.top:80/198455/198455/50482
 
-#EXTINF:-1, "BBB SD"
+#EXTINF:-1,[COLOR gold]BBB[/COLOR l SD l
 http://srvuhd.top:80/198455/198455/50481
