@@ -1,0 +1,181 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV" tvg-logo="https://i.imgur.com/I7GGcp0.png" group-title="VARIEDADES",POLISHOP TV
+http://cloud-nany.cc:80/mau2020/mau2121/55691
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT FHD" tvg-logo="https://i.imgur.com/wATrqxC.png" group-title="VARIEDADES",+GLOBOSAT FHD
+http://cloud-nany.cc:80/mau2020/mau2121/14996
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD" tvg-logo="https://i.imgur.com/f01kOkt.png" group-title="VARIEDADES",+GLOBOSAT HD
+http://cloud-nany.cc:80/mau2020/mau2121/7999
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT HD1" tvg-logo="https://i.imgur.com/Vz2CECq.png" group-title="VARIEDADES",+GLOBOSAT HD1
+http://cloud-nany.cc:80/mau2020/mau2121/1196
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT SD" tvg-logo="https://i.imgur.com/f01kOkt.png" group-title="VARIEDADES",+GLOBOSAT SD
+http://cloud-nany.cc:80/mau2020/mau2121/8000
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="+GLOBOSAT SD1" tvg-logo="https://i.imgur.com/gQBeNF3.png" group-title="VARIEDADES",+GLOBOSAT SD1
+http://cloud-nany.cc:80/mau2020/mau2121/1038
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13403
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA HD
+http://cloud-nany.cc:80/mau2020/mau2121/7885
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD1" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA HD1
+http://cloud-nany.cc:80/mau2020/mau2121/1071
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/Y22Kk5b.png" group-title="VARIEDADES",VIVA SD
+http://cloud-nany.cc:80/mau2020/mau2121/7886
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD1" tvg-logo="https://i.imgur.com/uooiCU2.png" group-title="VARIEDADES",VIVA SD1
+http://cloud-nany.cc:80/mau2020/mau2121/998
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV FHD" tvg-logo="https://i.imgur.com/8OI38uD.png" group-title="VARIEDADES",TRU TV FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13446
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/TruTV_2014.svg/revision/latest/scale-to-width-down/1000?cb=20180321164549" group-title="VARIEDADES",TRU TV HD
+http://cloud-nany.cc:80/mau2020/mau2121/7892
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD" tvg-logo="https://i.imgur.com/8OI38uD.png" group-title="VARIEDADES",TRU TV SD
+http://cloud-nany.cc:80/mau2020/mau2121/7893
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD¹" tvg-logo="https://i.imgur.com/J5TMZ7e.png" group-title="VARIEDADES",TRU TV SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1081
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13502
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK FHD H265
+http://cloud-nany.cc:80/mau2020/mau2121/24227
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK HD
+http://cloud-nany.cc:80/mau2020/mau2121/8072
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD¹" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK HD¹
+http://cloud-nany.cc:80/mau2020/mau2121/7205
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK SD
+http://cloud-nany.cc:80/mau2020/mau2121/8073
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD1" tvg-logo="https://i.imgur.com/AkJ4ix2.png" group-title="VARIEDADES",FOOD NETWORK SD1
+http://cloud-nany.cc:80/mau2020/mau2121/1043
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13469
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT FHD H265
+http://cloud-nany.cc:80/mau2020/mau2121/49803
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT HD
+http://cloud-nany.cc:80/mau2020/mau2121/8020
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD1" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT HD1
+http://cloud-nany.cc:80/mau2020/mau2121/7174
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT SD
+http://cloud-nany.cc:80/mau2020/mau2121/8021
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD¹" tvg-logo="https://i.imgur.com/RO4riqF.png" group-title="VARIEDADES",GNT SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1039
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION FHD" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13480
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION FHD H265" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION FHD H265
+http://cloud-nany.cc:80/mau2020/mau2121/49796
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION HD" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION HD
+http://cloud-nany.cc:80/mau2020/mau2121/8090
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION HD1" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION HD1
+http://cloud-nany.cc:80/mau2020/mau2121/7221
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION SD" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION SD
+http://cloud-nany.cc:80/mau2020/mau2121/8091
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! ENTERTAINMENT TELEVISION SD¹" tvg-logo="https://i.imgur.com/h0LkXsw.png" group-title="VARIEDADES",E! ENTERTAINMENT TELEVISION SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/7220
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13504
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME FHD H265
+http://cloud-nany.cc:80/mau2020/mau2121/24236
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME HD
+http://cloud-nany.cc:80/mau2020/mau2121/8001
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD1" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME HD1
+http://cloud-nany.cc:80/mau2020/mau2121/7150
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME SD
+http://cloud-nany.cc:80/mau2020/mau2121/8002
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD¹" tvg-logo="https://i.imgur.com/rn1gjTZ.png" group-title="VARIEDADES",LIFETIME SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/7149
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! FHD" tvg-logo="https://i.imgur.com/zNtHJGh.png" group-title="VARIEDADES",CURTA! FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13485
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/zNtHJGh.png" group-title="VARIEDADES",CURTA! HD
+http://cloud-nany.cc:80/mau2020/mau2121/8114
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD" tvg-logo="https://i.imgur.com/zNtHJGh.png" group-title="VARIEDADES",CURTA! SD
+http://cloud-nany.cc:80/mau2020/mau2121/8115
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD¹" tvg-logo="https://i.imgur.com/zNtHJGh.png" group-title="VARIEDADES",CURTA! SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/7269
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13447
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD1" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC HD1
+http://cloud-nany.cc:80/mau2020/mau2121/1096
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC HD
+http://cloud-nany.cc:80/mau2020/mau2121/7908
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC SD
+http://cloud-nany.cc:80/mau2020/mau2121/7909
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD¹" tvg-logo="https://i.imgur.com/lUvnfR1.png" group-title="VARIEDADES",TLC SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1010
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K UHD" tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="MUSICAS",MULTISHOW 4K UHD
+http://cloud-nany.cc:80/mau2020/mau2121/57278
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13505
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265" tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="MUSICAS",MULTISHOW FHD H265
+http://cloud-nany.cc:80/mau2020/mau2121/24244
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW HD
+http://cloud-nany.cc:80/mau2020/mau2121/7986
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD¹" tvg-logo="https://i.imgur.com/p8dxcrL.png" group-title="MUSICAS",MULTISHOW HD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1170
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/GRj46dh.png" group-title="MUSICAS",MULTISHOW SD
+http://cloud-nany.cc:80/mau2020/mau2121/7987
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD¹" tvg-logo="https://i.imgur.com/MJJ7zi5.png" group-title="MUSICAS",MULTISHOW SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1169
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV" tvg-logo="http://playtv.com.br/cdn/images/logo_playtv.png" group-title="MUSICAS",PLAY TV
+http://cloud-nany.cc:80/mau2020/mau2121/42045
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/dLco8Ts.png" group-title="MUSICAS",MTV FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13459
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV LIVE FHD" tvg-logo="https://i.imgur.com/42x9a33.png" group-title="MUSICAS",MTV LIVE FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13458
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/CswLA7E.png" group-title="MUSICAS",MTV HD
+http://cloud-nany.cc:80/mau2020/mau2121/7988
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD¹" tvg-logo="https://i.imgur.com/yBSbuW1.png" group-title="MUSICAS",MTV HD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1173
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/CswLA7E.png" group-title="MUSICAS",MTV SD
+http://cloud-nany.cc:80/mau2020/mau2121/7989
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD¹" tvg-logo="https://i.imgur.com/dLco8Ts.png" group-title="MUSICAS",MTV SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1029
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="VARIEDADES",BIS FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13438
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD H265" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="VARIEDADES",BIS FHD H265
+http://cloud-nany.cc:80/mau2020/mau2121/45599
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="VARIEDADES",BIS HD
+http://cloud-nany.cc:80/mau2020/mau2121/8132
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD1" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="VARIEDADES",BIS HD1
+http://cloud-nany.cc:80/mau2020/mau2121/7278
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/mCJkumd.png" group-title="VARIEDADES",BIS SD
+http://cloud-nany.cc:80/mau2020/mau2121/8133
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD¹" tvg-logo="https://i.imgur.com/4BsKm1S.png" group-title="VARIEDADES",BIS SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1053
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 FHD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13444
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 HD
+http://cloud-nany.cc:80/mau2020/mau2121/7888
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS HD1" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HITS HD1
+http://cloud-nany.cc:80/mau2020/mau2121/1073
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 SD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 SD
+http://cloud-nany.cc:80/mau2020/mau2121/7889
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS SD¹" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HITS SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1072
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="https://i.imgur.com/8LD7KxD.png" group-title="MUSICAS",VH1 MEGA HITS SD
+http://cloud-nany.cc:80/mau2020/mau2121/7887
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL FHD" tvg-logo="https://i.imgur.com/ZqpCJUf.png" group-title="MUSICAS",PRIME BOX BRASIL FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13451
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL HD" tvg-logo="https://i.imgur.com/ZqpCJUf.png" group-title="MUSICAS",PRIME BOX BRASIL HD
+http://cloud-nany.cc:80/mau2020/mau2121/7953
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD" tvg-logo="https://i.imgur.com/ZqpCJUf.png" group-title="MUSICAS",PRIME BOX BRASIL SD
+http://cloud-nany.cc:80/mau2020/mau2121/7954
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD1" tvg-logo="https://i.imgur.com/ZqpCJUf.png" group-title="MUSICAS",PRIME BOX BRASIL SD1
+http://cloud-nany.cc:80/mau2020/mau2121/7091
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="https://i.imgur.com/ATubgbr.png" group-title="MUSICAS",MUSIC BOX BRASIL FHD
+http://cloud-nany.cc:80/mau2020/mau2121/13457
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://i.imgur.com/75XDovs.png" group-title="MUSICAS",MUSIC BOX BRASIL HD
+http://cloud-nany.cc:80/mau2020/mau2121/7984
+#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRASIL SD" tvg-logo="https://i.imgur.com/75XDovs.png" group-title="MUSICAS",MUSIC BOX BRASIL SD
+http://cloud-nany.cc:80/mau2020/mau2121/7985
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL SD¹" tvg-logo="https://i.imgur.com/ATubgbr.png" group-title="MUSICAS",MUSIC BOX BRASIL SD¹
+http://cloud-nany.cc:80/mau2020/mau2121/1168
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://i.imgur.com/hobOTr8.png" group-title="RELIGIOSOS",CANCAO NOVA SD
+http://cloud-nany.cc:80/mau2020/mau2121/8124
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD1" tvg-logo="https://i.imgur.com/hobOTr8.png" group-title="RELIGIOSOS",CANCAO NOVA SD1
+http://cloud-nany.cc:80/mau2020/mau2121/24204
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD1" tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="RELIGIOSOS",TV APARECIDA SD1
+http://cloud-nany.cc:80/mau2020/mau2121/1084
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.imgur.com/D47ftNG.png" group-title="RELIGIOSOS",REDE VIDA HD
+http://cloud-nany.cc:80/mau2020/mau2121/14993
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD1" tvg-logo="https://i.imgur.com/4lR1Fnw.png" group-title="RELIGIOSOS",REDE VIDA SD1
+http://cloud-nany.cc:80/mau2020/mau2121/1017
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/D47ftNG.png" group-title="RELIGIOSOS",REDE VIDA SD
+http://cloud-nany.cc:80/mau2020/mau2121/7943
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO SD
+http://cloud-nany.cc:80/mau2020/mau2121/1008
