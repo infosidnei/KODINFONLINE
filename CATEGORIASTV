@@ -31,7 +31,7 @@
 <channels>
 <channel>
 <name>[COLOR gold]FILME E SERIES[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmesseries.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/filmseriestv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS FILMES E SÉRIES</info>
@@ -41,7 +41,7 @@
 <channels>
 <channel>
 <name>[COLOR gold]DOCUMENTÁRIOS[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/documentarios.png</thumbnail>
 <externallink>http://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE DOCUMENTARIOS</info>
@@ -51,7 +51,7 @@
 <channels>
 <channel>
 <name>[COLOR gold]ESPORTES[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/esportes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/ESPORTES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE ESPORTE</info>
@@ -61,7 +61,7 @@
 <channels>
 <channel>
 <name>[COLOR gold]VARIEDADES[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/variedades.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/variedades</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE VARIEDADES</info>
@@ -71,9 +71,19 @@
 <channels>
 <channel>
 <name>[COLOR gold]INFATIL[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/infantil.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/infantil</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS INFATIS</info>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
+<name>[COLOR gold]NOTÍCIAS[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/noticias.png</thumbnail>
+<externallink>https://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>CANAIS NOTÍCIAS</info>
 
 
