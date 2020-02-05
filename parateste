@@ -1,30 +1,29 @@
 #EXTM3U
-
-#EXTINF:-1, tvg-id="BBB 10" tvg-logo="Logo N/A" tvg-name="BBB 10"  group-title="Unsorted",BBB 10
+#EXTINF:-1, tvg-id="BBB 10" 
 http://srvuhd.top:80/198455/198455/50480
 
-#EXTINF:-1, tvg-id="BBB 3" tvg-logo="Logo N/A" tvg-name="BBB 3"  group-title="Unsorted",BBB 3
+#EXTINF:-1, tvg-id="BBB 3"
 http://srvuhd.top:80/198455/198455/50477
 
-#EXTINF:-1, tvg-id="BBB 4" tvg-logo="Logo N/A" tvg-name="BBB 4"  group-title="Unsorted",BBB 4
+#EXTINF:-1, tvg-id="BBB 4"
 http://srvuhd.top:80/198455/198455/50478
 
-#EXTINF:-1, tvg-id="BBB 5" tvg-logo="Logo N/A" tvg-name="BBB 5"  group-title="Unsorted",BBB 5
+#EXTINF:-1, tvg-id="BBB 5"
 http://srvuhd.top:80/198455/198455/50473
 
-#EXTINF:-1, tvg-id="BBB 6" tvg-logo="Logo N/A" tvg-name="BBB 6"  group-title="Unsorted",BBB 6
+#EXTINF:-1, tvg-id="BBB 6"
 http://srvuhd.top:80/198455/198455/50474
 
-#EXTINF:-1, tvg-id="BBB 7" tvg-logo="Logo N/A" tvg-name="BBB 7"  group-title="Unsorted",BBB 7
+#EXTINF:-1, tvg-id="BBB 7"
 http://srvuhd.top:80/198455/198455/50475
 
-#EXTINF:-1, tvg-id="BBB 8" tvg-logo="Logo N/A" tvg-name="BBB 8"  group-title="Unsorted",BBB 8
+#EXTINF:-1, tvg-id="BBB 8"
 http://srvuhd.top:80/198455/198455/50476
 
-#EXTINF:-1, tvg-id="BBB 9" tvg-logo="Logo N/A" tvg-name="BBB 9"  group-title="Unsorted",BBB 9
+#EXTINF:-1, tvg-id="BBB 9"
 http://srvuhd.top:80/198455/198455/50479
 
-#EXTINF:-1, tvg-id="BBB FHD" tvg-logo="Logo N/A" tvg-name="BBB FHD"  group-title="Unsorted",BBB FHD
+#EXTINF:-1, tvg-id="BBB FHD"
 http://srvuhd.top:80/198455/198455/50483
 
 #EXTINF:-1, tvg-id="BBB HD" tvg-logo="Logo N/A" tvg-name="BBB HD"  group-title="Unsorted",BBB HD
