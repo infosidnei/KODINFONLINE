@@ -1,10 +1,12 @@
-<item>
-<title>-BBB AO VIVO</title>
+<channels>
+<channel>
+<name>BBB AO VIVO</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/BBB</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>BBB 2020 AO VIVO</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
 <title>- > CANAIS ABERTOS < -</title>
