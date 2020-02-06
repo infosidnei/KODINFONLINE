@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR white]LANÇAMENTOS[/COLOR][COLOR yellow]|||[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/lan%C3%A7amentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR white]TOP FILMES[/COLOR][COLOR yellow]|||[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]TOP FILMES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/topfilmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TOPFILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR white]INFOTEC FILMES ON[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]INFOTEC FILMES ON[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/INFOTECFILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -42,7 +42,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR white]JM FILMES[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]JM FILMES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMFILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -57,7 +57,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR][COLOR white]FILMES PARA TESTES[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]FILMES PARA TESTES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/filmesteste</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
