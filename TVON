@@ -1,7 +1,7 @@
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR] [COLOR deepskyblue]JM-1-CANAIS [/COLOR][COLOR lime]TV ON [/COLOR] [COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
+<name>[COLOR gold]|||[/COLOR] [COLOR deepskyblue]JM-1-CANAIS [/COLOR][COLOR lime]TV ON [/COLOR] [COLOR gold]|||[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JM1</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR] [COLOR yellow]-TESTE IPTV OU P2P JM SERVICO [/COLOR] [COLOR fuchsia]- WHATSAPP - [/COLOR]-12982190306-[COLOR deeppink]|[/COLOR]</info>
@@ -10,18 +10,17 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR] [COLOR deepskyblue]CANAIS TV [COLOR lime]ON[/COLOR][/COLOR] [COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
+<name>[COLOR gold]|||[/COLOR] [COLOR deepskyblue]SERIDOR CANAIS[COLOR lime]ON[/COLOR][/COLOR] [COLOR gold]|||[/COLOR]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CATEGORIASTV</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR] [COLOR yellow]-TESTE IPTV OU P2P JM SERVICO [/COLOR] [COLOR fuchsia]- WHATSAPP - [/COLOR]-12982190306-[COLOR deeppink]|[/COLOR]</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-https://pastebin.com/raw/Jz7GJJmC
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR] [COLOR deepskyblue]JM-4-CANAIS [COLOR lime]ON[/COLOR][/COLOR] [COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR deepskyblue]JM-4-CANAIS [COLOR lime]ON[/COLOR][/COLOR] [COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
 <externallink>https://pastebin.com/raw/d09jtJCH</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -29,20 +28,9 @@ https://pastebin.com/raw/Jz7GJJmC
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-
 <channels>
 <channel>
-<name>[COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR] [COLOR deepskyblue]CANAIS ESPORTE [COLOR lime]ON[/COLOR][/COLOR] [COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/ESPORTES</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR] [COLOR yellow]-TESTE IPTV OU P2P JM SERVICO [/COLOR] [COLOR fuchsia]- WHATSAPP - [/COLOR]-12982190306-[COLOR deeppink]|[/COLOR]</info>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 3[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR deepskyblue]SERVIDOR 3[/COLOR] [COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
 <externallink>https://pastebin.com/raw/muZikRxa</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -53,7 +41,7 @@ https://pastebin.com/raw/Jz7GJJmC
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR deepskyblue]- CANAIS TV 2 -[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR deepskyblue]- CANAIS TV 2 -[/COLOR] [COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/canais.xml</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
