@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white]> TV ONLINE <[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]CANAIS IPTV[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white]> FILMES <[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]FILMES[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
