@@ -66,3 +66,16 @@
 [COLOR deeppink]|[/COLOR] - FILMES Variados - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]FILMES 2019[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/novoprojeto.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMES2</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - FILMES VARIADOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
