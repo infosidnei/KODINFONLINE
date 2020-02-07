@@ -1,30 +1,72 @@
-MODELO VARIOS LINKS
-<item>
-<title></Title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - link 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+#EXTM3U
+#EXTINF:-1,[COLOR gold](JM)[/COLOR] [COLOR lime](Infotec)[/COLOR] 
 
-MODELO GDRIVE DE APENAS UM LINK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmhbZT4.jpg" group-title="Filmes",A Noiva Cadáver
+https://goo.gl/zGZ8qn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUjkBSf.jpg" group-title="Filmes",A Travessia
+https://goo.gl/X6mnw6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u3hNTRT.jpg" group-title="Filmes",Na Toca do Tigre
+https://goo.gl/H6Gnfc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmHwO9v.jpg" group-title="Filmes",O Encontro
+https://goo.gl/i5kiuN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NuxZt6a.jpg" group-title="Filmes",Jogo da Morte
+https://goo.gl/TGSFGU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iPc3P5P.jpg" group-title="Filmes",Oddball e os Pinguins
+https://goo.gl/Hh5Y9h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDbYHOt.jpg" group-title="Filmes",Morrendo e Aprendendo >>>>>>>>>>>>ja baixei
+https://goo.gl/2QmeGJ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yVgIZ1R.jpg" group-title="Filmes",Vizinhos Imediatos de 3 Grau
+https://goo.gl/39n1H3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6kOkj7z.jpg" group-title="Filmes",Ponte dos Espiões
+https://goo.gl/XQ6KS1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hoH1b3K.jpg" group-title="Filmes",Impacto Mortal   <<<<<<<<<<<<<<<<<<< FATA BAIXAR
+https://goo.gl/AtwqmL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1WpadNN.jpg" group-title="Filmes",O Doador de Memórias
+https://goo.gl/MujrkP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9YmCo9Q.jpg" group-title="Filmes",Samba
+https://goo.gl/eRcnZN
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pBzeqgj.jpg" group-title="Filmes",Regresso do Mal
+https://goo.gl/zXCVjd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/55HJ8OD.jpg" group-title="Filmes",Além da Máscara
+https://goo.gl/75zGoE
+#EXTINF:-1 tvg-logo="http://i.imgur.com/X9JeiNT.jpg" group-title="Filmes",90 Minutos no Paraíso
+https://goo.gl/dRvtYe
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sIvMSbP.jpg" group-title="Filmes",A Rede
+https://goo.gl/t7ke8V
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P3GPY1C.jpg" group-title="Filmes",Não Tenho Troco
+https://goo.gl/y9X4Vt
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DQgn5DC.jpg" group-title="Filmes",Life
+https://goo.gl/UDvJVF
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cxiq0T9.jpg" group-title="Filmes",A Colina Escarlate
+https://goo.gl/SFU76f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2qcMxrr.jpg" group-title="Filmes",Loucademia de Polícia 5: Missão Miami Beach
+https://goo.gl/EmJxt4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YMdt0WL.jpg" group-title="Filmes",Quase Deuses  
+https://goo.gl/aHCgqF
+#EXTINF:-1 tvg-logo="http://i.imgur.com/muVqOEx.jpg" group-title="Filmes",Máxima Precisão Dublado
+https://goo.gl/yShSJu
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lj906IO.jpg" group-title="Filmes",Guerra dos Monstros Dublado
+https://goo.gl/oyLpwU
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKnF1Zy.jpg" group-title="Filmes",Marcando Território Dublado
+https://goo.gl/Ytj3jG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NzjUtlF.jpg" group-title="Filmes",Aliança do Crime Dublado
+https://goo.gl/w1wBB1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7190kBp.jpg" group-title="Filmes",Diário de Uma Paixão Dublado
+https://goo.gl/VEYv1P
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2oHPDx5.jpg" group-title="Filmes",Cara, Cadê Meu Carro? Dublado
+https://goo.gl/mEfmGD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mjlwg9g.jpg" group-title="Filmes",Zulu Dublado
+https://goo.gl/fea6VG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/g3Q3Qtv.jpg" group-title="Filmes",A Espada Era a Lei Dublado
+https://goo.gl/nZAbVP
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AChmyJt.jpg" group-title="Filmes",Madrugada Muito Louca 2 Dublado
+https://goo.gl/bdUj17
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZahPkTb.jpg" group-title="Filmes",O Tempo Não Espera Por Ninguém Dublado
+https://goo.gl/XHeiSw
+#EXTINF:-1 tvg-logo="http://i.imgur.com/00r0PqU.jpg" group-title="Filmes",Absolutamente Impossível Dublado
+https://goo.gl/5bSjs1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VIvSLKg.jpg" group-title="Filmes",Caçadores de Emoção Dublado
+https://goo.gl/nJ2TJh
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xeY3RRg.jpg" group-title="Filmes",O Garoto Sombrio Dublado
+https://goo.gl/Ua6rwN
 
-<item>
-<title></Title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-MODELO UNIVERSAL DE APENAS UM LINK
-
-<item>
-<title></Title>
-<link> link UNIVERSAL </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
