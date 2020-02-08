@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmhbZT4.jpg" group-title="Filmes",A Noiva Cadáver
 https://goo.gl/zGZ8qn
 
-#EXTINF: -1 tvg-logo = "http://brztv.com/Movies/Filmes/22%20Milhas/22%20Milhas-poster.jpg" group-title = "Ação", 22 Milhas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fcHq8q0cW49YlACLhwtknMtBv23.jpg" group-title="Filmes", 22 Milhas
 http://brztv.com/Movies/Filmes/22%20Milhas/22%20Milhas.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUjkBSf.jpg" group-title="Filmes",A Travessia
