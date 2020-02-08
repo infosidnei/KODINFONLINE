@@ -1,12 +1,62 @@
-#EXTM3U
-#EXTINF:-1,[COLOR gold](JM)[/COLOR] [COLOR lime](Infotec)[/COLOR] 
+# EXTM3U
+
+#EXTINF:-1,[COLOR gold](Infotec)[/COLOR] FILMES TOP-10
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fcHq8q0cW49YlACLhwtknMtBv23.jpg" group-title="Filmes", 22 Milhas - 2018
+http://brztv.com/Movies/Filmes/22%20Milhas/22%20Milhas.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/gNMENZds5Zv37QWcmrtereJvMKE.jpg" group-title="Filmes", Encontro Marcado - 2017
+http://brztv.com/Movies/Filmes/2.22%20Encontro%20Marcado/2.22%20Encontro%20Marcado.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="Filmes", 12 Strong - 2018
+http://brztv.com/Movies/Filmes/12%20Strong/12%20Strong.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/yzwyP9DIKxky986LjWI3FObAmOH.jpg" group-title="Filmes", 60 Segundos - 2000
+http://brztv.com/Movies/Filmes/60%20Segundos/60%20Segundos.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/nGvFQ1pB3YebdXYY0IsQfEIzm1C.jpg" group-title="Filmes", 211 O Grande Assalto - 2018
+http://brztv.com/Movies/Filmes/211%20O%20Grande%20Assalto/211%20O%20Grande%20Assalto.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/iCFYGFXq7G9qcXEdfzeEx6PiIvw.jpg" group-title="Filmes", 2012 - 2009
+http://brztv.com/Movies/Filmes/2012/2012.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/4av3oWqgZ8QOl96xitvEovcu8jm.jpg" group-title="Filmes", A Chegada - 2016
+http://brztv.com/Movies/Filmes/A%20Chegada/A%20Chegada.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes", A Fortaleza ' Sequestrados - 
+http://brztv.com/Movies/Filmes/A%20Fortaleza%20Sequestrados/A%20Fortaleza%20Sequestrados.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg" group-title="Filmes", A Freira - 2018
+http://brztv.com/Movies/Filmes/A%20Freira/A%20Freira.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg" group-title="Filmes", A Muralha - 2016
+http://brztv.com/Movies/Filmes/A%20Grande%20Muralha/A%20Grande%20Muralha.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/h0OM8DvWEepVzVb6qKCuHwzqCUN.jpg" group-title="Filmes", A Justiceira - 2018
+http://brztv.com/Movies/Filmes/A%20Justiceira/A%20Justiceira.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/3xQYGts4fVYDGGNw0u5DuVIwNfA.jpg" group-title="Filmes", Ghost A Vigilante do Aamnhã - 2017
+http://brztv.com/Movies/Filmes/A%20Vigilante%20do%20Amanh%c3%a3%20Ghost%20in%20the%20Shell%20-%202017/A%20Vigilante%20do%20Amanh%c3%a3%20Ghost%20in%20the%20Shell%20-%202017.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/vvyrbpCvTtCmcWIntQuXzuQUZr8.jpg" group-title="Filmes", Alta Velocidade - 2001
+http://brztv.com/Movies/Filmes/Alta%20Velocidade/Alta%20Velocidade.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fsB9sROlrUAuFPVjiiw4dDVmuOG.jpg" group-title="Filmes", Bad Boys - 1995
+http://brztv.com/Movies/Filmes/Bad%20Boys/Bad%20Boys.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/680X9apSqmAcebLg8evnnUeQNeI.jpg" group-title="Filmes", Bad Boys 2 - 2003
+http://brztv.com/Movies/Filmes/Bad%20Boys%202/Bad%20Boys%202.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/9ORTc9UUTtRq7pssuu5OXNG3W5m.jpg" group-title="Filmes", Batman Vs Superman - 2016
+http://brztv.com/Movies/Filmes/Batman%20Vs%20Superman/Batman%20Vs%20Superman.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/nPImEQzFOn2Ryjb2dRTAepKPCbf.jpg" group-title="Filmes", Busca Sem Limites - 2016
+http://brztv.com/Movies/Filmes/Busca%20Sem%20Limites/Busca%20Sem%20Limites.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EmhbZT4.jpg" group-title="Filmes",A Noiva Cadáver
 https://goo.gl/zGZ8qn
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fcHq8q0cW49YlACLhwtknMtBv23.jpg" group-title="Filmes", 22 Milhas
-http://brztv.com/Movies/Filmes/22%20Milhas/22%20Milhas.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUjkBSf.jpg" group-title="Filmes",A Travessia
 https://goo.gl/X6mnw6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u3hNTRT.jpg" group-title="Filmes",Na Toca do Tigre
@@ -17,13 +67,13 @@ https://goo.gl/i5kiuN
 https://goo.gl/TGSFGU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPc3P5P.jpg" group-title="Filmes",Oddball e os Pinguins
 https://goo.gl/Hh5Y9h
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WDbYHOt.jpg" group-title="Filmes",Morrendo e Aprendendo >>>>>>>>>>>>ja baixei
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WDbYHOt.jpg" group-title="Filmes",Morrendo e Aprendendo 
 https://goo.gl/2QmeGJ
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yVgIZ1R.jpg" group-title="Filmes",Vizinhos Imediatos de 3 Grau
 https://goo.gl/39n1H3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6kOkj7z.jpg" group-title="Filmes",Ponte dos Espiões
 https://goo.gl/XQ6KS1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hoH1b3K.jpg" group-title="Filmes",Impacto Mortal   <<<<<<<<<<<<<<<<<<< FATA BAIXAR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hoH1b3K.jpg" group-title="Filmes",Impacto Mortal 
 https://goo.gl/AtwqmL
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1WpadNN.jpg" group-title="Filmes",O Doador de Memórias
 https://goo.gl/MujrkP
