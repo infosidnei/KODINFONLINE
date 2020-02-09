@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR] [COLOR white] SERVIDOR 1 l [/COLOR][COLOR lime]EM TEST[/COLOR][COLOR white] l[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR white] SERVIDOR 1 l [/COLOR][COLOR lime]EM TEST ON[/COLOR][COLOR white] l[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/servidormanutecao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/888canaistv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR] [COLOR white] SERVIDOR 3 l [/COLOR][COLOR gold]TEST[/COLOR][COLOR white] l[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR white] SERVIDOR 2 l [/COLOR][COLOR gold]EM TEST OFF[/COLOR][COLOR white] l[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/servidormanutecao.png</thumbnail>
 <externallink>https://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -41,7 +41,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR] [COLOR white] SERVIDOR 4  l [/COLOR][COLOR gold]TEST[/COLOR][COLOR white] l[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR white] SERVIDOR 3  l [/COLOR][COLOR gold]EM TEST OFF[/COLOR][COLOR white] l[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/servidormanutecao.png</thumbnail>
 <externallink>https://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
