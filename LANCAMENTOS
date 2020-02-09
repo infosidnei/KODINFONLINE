@@ -392,17 +392,3 @@ Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbo
 <fanart></fanart>
 <info></info>
 </item>
-
-<item>
-<title>[COLOR white]Homem-Formiga e a Vespa (Dublado) - 2018[/COLOR][COLOR yellow] (Redecanais)[/COLOR]</title>
-<link>$doregex[Igor_Rangel_Link]HMNFRMGEVSPA.mp4|Referer=http://www.miceret.com/contador.php</link>
-<regex>
-<name>Igor_Rangel_Link</name>
-<expres> src="(.*?).mp4</expres>
-<page>http://igorlista.at.ua/Serves/RedeCanais/Filme/serverf4.txt</page>
-</regex>
-<genre>Ação,Aventura e Ficção Cientifica</genre>
-<info>Após os acontecimentos de "Capitão América: Guerra Civil", Scott Lang tenta equilibrar sua vida familiar como pai com suas responsabilidades como Homem-Formiga, quando Hope Van Dyne e Hank Pym apresentam-lhe uma nova missão para trazer á luz segredos do passado, exigindo que ele se junte com Van Dyne como a nova Vespa.</info>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb8Zdtzd3S93gD5GSgwXGlNqyZH8tNsMeChZpVJOtluglrrifM</fanart>
-<thumbnail>https://media.fstatic.com/A3dkLJ0A1djtgXoUTm6_DW0L_Ps=/fit-in/290x478/smart/media/movies/covers/2018/07/z4GC7e0XFBYT350DQhvED2ruxd6rQQwdJ1_3WB-jvErs.jpg</thumbnail>
-</item>
