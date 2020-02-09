@@ -1,0 +1,17 @@
+<layoutype>thumbnail</layoutype>
+
+<channels>
+
+
+<channel>
+<name>[B][COLOR white]TV ONLINE BR[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Geral.html</externallink>
+<info>[B]Ajude para que o add on não se acabe !!
+Doações conta Poupança Caixa
+Agencia: 
+Oeração: 
+Conta: 
+nome[/B]</info>
+<fanart>http://nadaver</fanart>
+<thumbnail>http://nadaver</thumbnail>
+</channel>
