@@ -1,7 +1,20 @@
 #EXTM3U
 #EXTINF:-1,[COLOR gold]INFOTEC[/COLOR] - [COLOR red](IPTV)[/COLOR]
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/qrGIcUq.jpg" group-title = "FILMES", 15 MINUTOS (2001)
+#EXTINF: -1 tvg-logo = "" group-title = "guerra", o grande herói
+https://video.wixstatic.com/video/f076ef_ce9192769faf411f9b42b7566ba6feac/480p/mp4/file.mp4
+#EXTINF: -1 tvg-logo = "" group-title = "ficção", cowboys e alienígenas
+https://video.wixstatic.com/video/f076ef_9c38b88cc8b847a4ae049c00a1854e25/720p/mp4/file.mp4
+#EXTINF: -1 tvg-logo = "" group-title = "ficção", Tomorrowland um lugar onde nada é impossível
+https://storage.googleapis.com/apk-cine5g.appspot.com/filmes/Tomorrowland---Um-Lugar-Onde-Nada-e-impossivel.mp4
+#EXTINF: -1 tvg-logo = "" group-title = "faroeste", o último homem
+https://storage.googleapis.com/apk-cine5g.appspot.com/filmes/O%20%C3%9Altimo%20Homem%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4
+#EXTINF: -1 tvg-logo = "" group-title = "comédia", tirando o atraso
+https://video.wixstatic.com/video/f076ef_aa70bad51e9b4604ad7330a09e56b067/480p/mp4/file.mp4
+#EXTINF: -1 tvg-logo = "" group-title = "comédia", bons meninos (18 anos ou mais)
+https://video.wixstatic.com/video/f076ef_13f76678ccf7488ca3486d43745d911a/480p/mp4/file.mp4
+
+#EXTINF:-1 tvg-logo = "https://i.imgur.com/qrGIcUq.jpg" group-title = "FILMES", 15 MINUTOS (2001)
 http://tv.factoryiptv.com:80/movie/Guilherme/123456/57575.mp4
 
 #EXTINF:-1,Nancy
