@@ -15,9 +15,9 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white] - THE WITCHER 1º TEPORADA - [/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR gold] - THE WITCHER 1º TEPORADA - [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w1280/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
-<externallink>http://nadaver</externallink>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/thewitcher</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
 <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] - off - [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -41,7 +41,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] - off - [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>http://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
