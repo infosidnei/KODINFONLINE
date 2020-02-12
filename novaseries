@@ -1,33 +1,52 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<item>
-<title>[B][COLOR gold] - NOVAS SERIES - [/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/series.png</thumbnail>
-<fanart>https://ia801406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<link>http://nadaver</link>
-<info>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-by INFOTEC
-[COLOR deeppink]1[/COLOR]- Novas Séries em desenvolvimento -[COLOR deeplnk]1[/COLOR]</info>
-</item>
+<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
 
-<item>
-<title>-THE WITCHER 1º TEPORADA-</title>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] - THE WITCHER 1º TEPORADA - [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w1280/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/series</link>
-<info></info
-</item>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-<item>
-<title>-MANIFEST 1º TEMPORADA</title>
-<thumbnail>https://image.tmdb.org/t/p/w1280/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
-<link>http://nadaver</link>
-<info></info
-</item>
+<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
 
-<item>
-<title>-THEILAND 1º TEMPORADA-</title>
-<thumbnail>https://image.tmdb.org/t/p/w1280/Muev370hN3vdjGsC1ip1HcWqbT.jpg</thumbnail>
-<link>http://nadaver</link>
-<info>Sinopse
-Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.</info
-</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+
+<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>http://nadaver</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+
+<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
