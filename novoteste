@@ -1,14 +1,8 @@
 #EXTM3U
 
-#EXTINFO:-1 tvg-logo="--LOGO--" group-title="",-- FILMES TORRENT 2019 --
-#EXTINFO:-1 tvg-logo="--LOGO--" group-title="",-- 14.02.2020 --
-#EXTINFO:-1 tvg-logo="--LOGO--" group-title="",[COLOR blue][I][B]--FILMES TORRENT--[/B][/I][/COLOR]
+#EXTINFO:-1tvg-logo="--LOGO--"group-title="",-- FILMES TORRENT 2019 --
+#EXTINFO:-1tvg-logo="--LOGO--"group-title="",-- 14.02.2020 --
+#EXTINFO:-1tvg-logo="--LOGO--"group-title="",[COLOR blue][I][B]--FILMES TORRENT--[/B][/I][/COLOR]
 
 
 #EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="https://image.tmdb.org/t/p/w1280/1omIRNiqO4c0CkKWlI1Yz8TFE0E.jpg"aspect-ratio="16:9",A Verdade Nua e Crua (2009) 1080p BrRip Dublado http://localhost:65251/play?uri=magnet:?xt=urn:btih:A1806AAD39637EDC3878794A6D2AF70A7F537E65&amp
-
-#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--URL/LINK DO FILME--
-
-#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--URL/LINK DO FILME--
-
-#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--URL/LINK DO FILME--
