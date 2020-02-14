@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR white] - NOVAS SÉRIES - [/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/series.png</thumbnail>
 <externallink>http://nadaver</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR gold] - THE WITCHER 1º TEPORADA - [/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR gold] - THE WITCHER 1º TEPORADA - [/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w1280/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/thewitsher1</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -28,9 +28,9 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white] - TESTE MODELO - [/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR white] - TESTE MODELO - [/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/teamblue65/LISTAS/master/MENU01PRINCIPAL</externallink>
+<externallink>https://raw.githubusercontent.com/watchdogs36/dedsec/master/movies.xml</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
 <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
@@ -41,7 +41,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white] - teste do addon - [/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR] [COLOR white] - teste do addon - [/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/teamblue65/ListasKodi/master/M01_LISTA04_KIDS_ZONE.xml</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
