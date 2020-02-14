@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1,[COLOR gold]INFOTEC[/COLOR] [COLOR lime]VIP[/COLOR]
+
+#EXTINF:-1,[COLOR gold]CANAIS ABERTOS[/COLOR] 
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD
+http://cloud-nany.cc:80/mau2020/mau9911/8034
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="REDE RECORD HD" tvg-logo="https://i.imgur.com/mQo0UoK.png" group-title="REDE RECORD",REDE RECORD HD
+http://cloud-nany.cc:80/mau2020/mau9911/7951
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="ABERTOS",BAND HD
+http://cloud-nany.cc:80/mau2020/mau9911/8138
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="ABERTOS",SBT HD
+http://cloud-nany.cc:80/mau2020/mau9911/7941
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/yb2W1kq.png" group-title="ABERTOS",TV CULTURA HD
+http://cloud-nany.cc:80/mau2020/mau9911/14991
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/AKTvJNq.png" group-title="ABERTOS",REDE TV HD
+http://cloud-nany.cc:80/mau2020/mau9911/7944
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="ABERTOS",FUTURA HD
+http://cloud-nany.cc:80/mau2020/mau9911/8058
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/De8T3ni.png" group-title="ABERTOS",TV BRASIL
+http://cloud-nany.cc:80/mau2020/mau9911/7899
+
+#EXTINF:-1,[COLOR gold]DOCUMENTÁRIOS[/COLOR] 
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://cloud-nany.cc:80/mau2020/mau9911/8145
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://cloud-nany.cc:80/mau2020/mau9911/8112
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://cloud-nany.cc:80/mau2020/mau9911/8100
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+http://cloud-nany.cc:80/mau2020/mau9911/8102
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/HnAi9Sz.png" group-title="DOCUMENTARIOS",HGTV HD
+http://cloud-nany.cc:80/mau2020/mau9911/8110
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://cloud-nany.cc:80/mau2020/mau9911/8104
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://cloud-nany.cc:80/mau2020/mau9911/8108
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://cloud-nany.cc:80/mau2020/mau9911/8098
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="DOCUMENTARIOS",ID - INVESTIGACAO DISCOVERY HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_5210ee098b70ae7abae1cec373695753285109f6/playlist.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/013fpEW.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+http://cloud-nany.cc:80/mau2020/mau9911/8005
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="DOCUMENTARIOS",H2 HD
+http://cloud-nany.cc:80/mau2020/mau9911/8018
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="DOCUMENTARIOS",NAT GEO HD
+http://cloud-nany.cc:80/mau2020/mau9911/7982
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://cloud-nany.cc:80/mau2020/mau9911/7979
+
+#EXTINF:-1,[COLOR gold]ESPORTES[/COLOR] 
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES GLOBOSAT",COMBATE HD
+http://cloud-nany.cc:80/mau2020/mau9911/8118
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/V14bcLW.png" group-title="ESPORTES GLOBOSAT",SPORTV HD
+http://cloud-nany.cc:80/mau2020/mau9911/7930
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/TWp2IKt.png" group-title="ESPORTES GLOBOSAT",SPORTV 2 HD
+http://cloud-nany.cc:80/mau2020/mau9911/7933
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/AlgT8ah.png" group-title="ESPORTES GLOBOSAT",SPORTV 3 HD
+http://cloud-nany.cc:80/mau2020/mau9911/7931
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/x8Gzw4G.png" group-title="ESPORTES GLOBOSAT",OFF HD
+http://cloud-nany.cc:80/mau2020/mau9911/7971
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://images.mi.tv/channels/br_premiere-clubes_m.png" group-title="PREMIERE FUTEBOL",PREMIERE CLUBES HD
+http://cloud-nany.cc:80/mau2020/mau9911/7955
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/0SvE6z8.png" group-title="ESPORTES",FOX SPORTS HD
+http://cloud-nany.cc:80/mau2020/mau9911/8062
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/tAklHZ1.png" group-title="ESPORTES",FOX SPORTS 2 HD
+http://cloud-nany.cc:80/mau2020/mau9911/8060
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/VlyX9nW.png" group-title="ESPORTES",ESPN HD
+http://cloud-nany.cc:80/mau2020/mau9911/8082
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/86QLvF9.png" group-title="ESPORTES",ESPN 2 HD
+http://cloud-nany.cc:80/mau2020/mau9911/49132
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/vPzmOkP.png" group-title="ESPORTES",ESPN EXTRA HD
+http://cloud-nany.cc:80/mau2020/mau9911/8083
+
+#EXTINF:-1,[COLOR gold]FILMES E SÉRIES[/COLOR]
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/ZyRL8Ah.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
+http://cloud-nany.cc:80/mau2020/mau9911/7913
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/0065Rat.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
+http://cloud-nany.cc:80/mau2020/mau9911/7921
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/f6vTtkx.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
+http://cloud-nany.cc:80/mau2020/mau9911/7915
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.imgur.com/5fKua1R.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
+http://cloud-nany.cc:80/mau2020/mau9911/7917
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/oDWyzmv.png" group-title="GLOBOSAT FILMES",MEGAPIX HD
+http://cloud-nany.cc:80/mau2020/mau9911/7990
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/BZlUDYx.png" group-title="GLOBOSAT FILMES",SYFY HD
+http://cloud-nany.cc:80/mau2020/mau9911/7938
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://i.imgur.com/KVEaq4U.png" group-title="GLOBOSAT FILMES",UNIVERSAL CHANNEL HD
+http://cloud-nany.cc:80/mau2020/mau9911/7890
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/dgH054u.png" group-title="REDE HBO",HBO HD
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/hbo1080p_63266754_c75ebfcb262eccfbf2030781359e1e6f384416d9/playlist.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/sPbcIgM.png" group-title="REDE HBO",HBO2 HD
+http://cloud-nany.cc:80/mau2020/mau9911/8015
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="https://i.imgur.com/UqdptsC.png" group-title="REDE HBO",MAX HD
+http://cloud-nany.cc:80/mau2020/mau9911/7997
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP HD" tvg-logo="https://i.imgur.com/HepEySW.png" group-title="REDE HBO",MAX UP HD
+http://cloud-nany.cc:80/mau2020/mau9911/7992
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="https://i.imgur.com/wXWtRZA.png" group-title="REDE HBO",MAX PRIME HD
+http://cloud-nany.cc:80/mau2020/mau9911/7994
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Gnd4SiV.png" group-title="FILMES/SERIES",AXN HD
+http://cloud-nany.cc:80/mau2020/mau9911/8141
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC BRASIL HD" tvg-logo="https://i.imgur.com/MzxR5DU.png" group-title="FILMES/SERIES",AMC BRASIL HD
+http://cloud-nany.cc:80/mau2020/mau9911/8147
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/7zOGhVI.png" group-title="FILMES/SERIES",CANAL SONY HD
+http://cloud-nany.cc:80/mau2020/mau9911/8125
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/amKCOUv.png" group-title="FILMES/SERIES",CINEMAX HD
+http://cloud-nany.cc:80/mau2020/mau9911/8120
