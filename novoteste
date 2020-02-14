@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
 https://paineliptvgratis.com/intro.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nCtKVLCh0h8QBsPO6P4drq2vPCR.jpg" group-title="Ação",  12 Rounds 3
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:BAD3E692D770799E53D077DA19F61A4F424D473E&
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/9373/movieposter/the-texas-chainsaw-massacre-552ab3a6a6d8b.jpg" group-title="Terror",  The Texas Chainsaw Massacre (2003) [1080p
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:f87e56bbc6e81f4f7896d1529addf65a744ac143
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3Tp9eObkW2JAr2xaLFsJceyxMhM.jpg" group-title="Animação",  Missão Cegonha
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:2C4D07084C236132C7A6A6644C0B6B5E01EB0DAA&
