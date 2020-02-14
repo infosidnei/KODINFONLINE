@@ -1,30 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
-https://paineliptvgratis.com/intro.mp4
 
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/9373/movieposter/the-texas-chainsaw-massacre-552ab3a6a6d8b.jpg" group-title="Terror",  The Texas Chainsaw Massacre (2003) [1080p
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:f87e56bbc6e81f4f7896d1529addf65a744ac143
+#EXTINFO:-1 tvg-logo="--LOGO--" group-title="",-- FILMES TORRENT 2019 --
+#EXTINFO:-1 tvg-logo="--LOGO--" group-title="",-- 14.02.2020 --
+#EXTINFO:-1 tvg-logo="--LOGO--" group-title="",[COLOR blue][I][B]--FILMES TORRENT--[/B][/I][/COLOR]
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3Tp9eObkW2JAr2xaLFsJceyxMhM.jpg" group-title="Animação",  Missão Cegonha
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:2C4D07084C236132C7A6A6644C0B6B5E01EB0DAA&
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uO1d16qbJ1NuPzwp3qah6jBp72S.jpg" group-title="Ação",  No Limite
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:C356848499496954C28BEDB1E1E2B588F14001BF&
+#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="https://image.tmdb.org/t/p/w1280/1omIRNiqO4c0CkKWlI1Yz8TFE0E.jpg"aspect-ratio="16:9",A Verdade Nua e Crua (2009) 1080p BrRip Dublado http://localhost:65251/play?uri=magnet:?xt=urn:btih:A1806AAD39637EDC3878794A6D2AF70A7F537E65&amp
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7souLi5zqQCnpZVghaXv0Wowi0y.jpg" group-title="Animação",  Batman: Gotham by Gaslight
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:0B814E782BC1CDBFF3A53D2E98B073F6837BF8A6&
+#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--URL/LINK DO FILME--
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9X8CZx9OfNroXVerYiHIAlIUomj.jpg" group-title="Ação", O Assassino – O Primeiro Alvo
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:65A2DD7AF29C50D25FAE8D2C801EFBDBD15E4D97&
+#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--URL/LINK DO FILME--
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/foHyGzllPDT051h5oETjlA0U0Cg.jpg" group-title="Comedia", A Guerra dos Sexos 2018 
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:98263EF80F7979B1900D52160771EC36C8FB7038&
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2HbxuEVgQNh5vfQOhB6nifuByPs.jpg" group-title="Ação", A Inundação
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:BE110A14E516E6A028A2DC14C37E5C3881077B89&
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uGNyIpD9bTFVvXMaMOxo7RwNUSN.jpg" group-title="Ação", Tempestade – Planeta em Fúria
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:BEEF978285A8EE35EE66FB18867C5B935EB0D01C&
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/olTUdNgOVapsaOJhbiCEwUimDGW.jpg" group-title="Ação", Área 15
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:BEEF978285A8EE35EE66FB18867C5B935EB0D01C&
+#EXTINF:-1 channelId="--CATEGORIA--"tvg-logo="--LOGO--"aspect-ratio="16:9",--NOME DO FILME--URL/LINK DO FILME--
