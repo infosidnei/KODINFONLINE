@@ -9,6 +9,20 @@
 <fanart></fanart
 </item>
 
+
+<item>
+<title>[COLOR silver][B]A CABANA [/COLOR][/B][COLOR yellow][B](IMDB 6.5)[/COLOR][/B]</title>
+<link>$doregex[vida]ACBNA.mp4/chunk.m3u8|Referer=$doregex[vidar]</link>
+<regex><name>vida</name><expres>(.*?).rcf4</expres><page>https://goo.gl/fmBTiU</page></regex>
+<regex><name>vidar</name><expres>(.*?).rf</expres><page>https://goo.gl/fmBTiU</page></regex>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/17/01/31/21/04/546636.jpg</thumbnail>
+<fanart>http://www.cinemaqui.com.br/wp-content/uploads/2017/03/a-cabana-destaque.jpg</fanart>
+<info>Um homem que sofre recebe um convite misterioso e pessoal para se encontrar com Deus em um lugar chamado "The Shack".</info>
+<genre>DRAMA</genre>
+</item>
+  
+  
+  
 <item>
 <title>The Texas Chainsaw Massacre: The Beginning (2006)</title>
 <link>magnet:?xt=urn:btih:a9d6bb8c146a8b44c71fc844372bfe72b91bdd0f&dn=The Texas Chainsaw Massacre The Beginning (2006) [1080p]&tr=udp://tracker.yify-torrents.com/announce&tr=udp://open.demonii.com:1337&tr=udp://exodus.desync.com:6969&tr=udp://tracker.istole.it:80&tr=udp://tracker.publicbt.com:80&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.leechers-paradise.org:6969&tr=udp://9.rarbg.com:2710&tr=udp://tracker.coppersurfer.tk:6969</link>
