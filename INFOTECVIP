@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1,[COLOR gold]INFOTEC[/COLOR] [COLOR lime]VIP[/COLOR]
 
-#EXTINF:-1,[COLOR gold]CANAIS BBB AO VIVO[/COLOR] 
-
-EXTM3U
-#EXTINF:-1,[COLOR gold](JM)[/COLOR] [COLOR lime](Infotec)[/COLOR] BBB 20 Update(14.02.2020)
- 
+#EXTINF:-1,[COLOR gold]CANAIS BBB AO VIVO[/COLOR]
  
 #EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB HD MOSAICO" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB HD MOSAICO
 http://cloud-nany.cc:80/jmservicos00/jmservicos01/59300
