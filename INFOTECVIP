@@ -1,6 +1,48 @@
 #EXTM3U
 #EXTINF:-1,[COLOR gold]INFOTEC[/COLOR] [COLOR lime]VIP[/COLOR]
 
+#EXTINF:-1,[COLOR gold]CANAIS BBB AO VIVO[/COLOR] 
+
+#EXTINF:0,BBB HD MOSAICO
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59300
+#EXTINF:0,BBB 20 FHD
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59197
+#EXTINF:0,BBB 20 HD
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59196
+#EXTINF:0,BBB - CAM01
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59289
+#EXTINF:0,BBB - CAM02
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59290
+#EXTINF:0,BBB - CAM03
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59291
+#EXTINF:0,BBB - CAM04
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59292
+#EXTINF:0,BBB - CAM05
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59293
+#EXTINF:0,BBB - CAM06
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59294
+#EXTINF:0,BBB - CAM07
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59295
+#EXTINF:0,BBB - CAM08
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59296
+#EXTINF:0,BBB - CAM09 
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59297
+#EXTINF:0,BBB - CAM10
+#EXTVLCOPT:file-caching=300
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59432
+
 #EXTINF:-1,[COLOR gold]CANAIS ABERTOS[/COLOR] 
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD
