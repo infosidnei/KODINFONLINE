@@ -1,13 +1,84 @@
 #EXTM3U
 #EXTINF:-1,[COLOR gold]INFOTEC[/COLOR] [COLOR lime]VIP[/COLOR]
 
-#EXTINF:-1,[COLOR gold]ADDON EM CRIAÇÃO[/COLOR] 
+#EXTM3U
 
-#EXTINF:-1,[COLOR gold]DOCUMENTÁRIOS[/COLOR] 
+#EXTINF:-1, Teste lista nova
 
-#EXTINF:-1,[COLOR gold]ESPORTES[/COLOR] 
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB HD MOSAICO" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB HD MOSAICO
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59300
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB 20 FHD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB 20 FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59197
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB 20 HD" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB 20 HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59196
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM01" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM01
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59289
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM02" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM02
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59290
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM03" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM03
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59291
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM04" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM04
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59292
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM05" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM05
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59293
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM06" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM06
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59294
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM07" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM07
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59295
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM08" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM08
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59296
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM09 " tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM09 
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59297
+#EXTINF:-1 tvg-id="BBB2020" tvg-name="BBB - CAM10" tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="REALITY SHOW",BBB - CAM10
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/59432
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/13425
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD H265" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ FHD H265
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/53429
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8038
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD1" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ HD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/1201
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="REDE GLOBO",GLOBO RJ SD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8039
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD1" tvg-logo="https://i.imgur.com/520c643.png" group-title="REDE GLOBO",GLOBO RJ SD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/1003
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/13424
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD H265" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP FHD H265
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/45420
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8034
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD1" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP HD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/1199
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/URH9vRH.png" group-title="REDE GLOBO",GLOBO SP SD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8035
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD1" tvg-logo="https://i.imgur.com/j2NxFE3.png" group-title="REDE GLOBO",GLOBO SP SD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/1987
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",EPTV CAMPINAS FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/26589
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",EPTV CAMPINAS HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8052
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS HD1" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",EPTV CAMPINAS HD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/49146
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",EPTV CAMPINAS SD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8053
+#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="EPTV CAMPINAS SD1" tvg-logo="https://i.imgur.com/TjTVvV9.png" group-title="REDE GLOBO",EPTV CAMPINAS SD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/2003
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/26590
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA HD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8054
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD1" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA HD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/49147
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA SD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/8055
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD1" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="REDE GLOBO",GLOBO BRASILIA SD1
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/1210
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA FHD" tvg-logo="https://i.imgur.com/A085GUX.png" group-title="REDE GLOBO",TV BAHIA FHD
+http://cloud-nany.cc:80/jmservicos00/jmservicos01/26584
 
-#EXTINF:-1,[COLOR gold]FILMES E SÉRIES[/COLOR]
+
 
 #EXTINF:-1,[COLOR gold]FILMES TOP[/COLOR]
 
