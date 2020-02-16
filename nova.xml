@@ -11,8 +11,8 @@
 <item>
 <title>[COLOR silver][B]A CABANA [/COLOR][/B][COLOR yellow][B](IMDB 6.5)[/COLOR][/B]</title>
 <link>$doregex[infotec]ACBNA.mp4/chunk.m3u8|Referer=$doregex[infoteck]</link>
-<regex><name>infotec</name><expres>(.*?).rcf4</expres><page>http://bit.ly/37u27Tl</page></regex>
-<regex><name>infoteck</name><expres>(.*?).rf</expres><page>http://bit.ly/37u27Tl</page></regex>
+<regex><name>infotec</name><expres>(.*?).rcf4</expres><page>http://http://bit.ly/infoteckodi</page></regex>
+<regex><name>infoteck</name><expres>(.*?).rf</expres><page>http://bit.ly/infoteckodi</page></regex>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6CE26946C9E8133970B7E5DDA31D86935C0915F&dn=A%20Cabana%202017%20%5bBluRay%5d%20(720p)%20DUBLADO&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fglotorrents.pw%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
 <thumbnail>http://br.web.img3.acsta.net/c_215_290/pictures/17/01/31/21/04/546636.jpg</thumbnail>
 <fanart>http://www.cinemaqui.com.br/wp-content/uploads/2017/03/a-cabana-destaque.jpg</fanart>
@@ -23,8 +23,8 @@
 <item>
 <title>[COLOR silver][B]Maria e João – O Conto das Bruxas [/COLOR][/B][COLOR gold][B](IMDB 7.2)[/COLOR][/B]</title>
 <link>$doregex[infotec]HDCAM-C1N3Mu.mkv/chunk.m3u8|Referer=$doregex[infoteck]</link>
-<regex><name>infotec</name><expres>(.*?).rcf4</expres><page>http://bit.ly/37u27Tl</page></regex>
-<regex><name>infoteck</name><expres>(.*?).rf</expres><page>http://bit.ly/37u27Tl</page></regex>
+<regex><name>infotec</name><expres>(.*?).rcf4</expres><page>http://bit.ly/infoteckodi</page></regex>
+<regex><name>infoteck</name><expres>(.*?).rf</expres><page>http://bit.ly/infoteckodi</page></regex>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbfbfe3c0d285080ad1818e61f0b2fa4fb0e8f19&dn=Gretel+and+Hansel+2020+720p+HD-TS-C1N3M4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
 <thumbnail>https://i1.wp.com/thefilmestorrent.com/wp-content/uploads/2020/02/joao-e-maria.jpg?resize=250%2C375&ssl=1</thumbnail>
 <fanart></fanart>
@@ -35,7 +35,7 @@
  <item>
 <title>[COLOR silver][B]Coringa [/COLOR][/B][COLOR yellow][B](IMDB 8.9)[/COLOR][/B]</title>
 <link>$doregex[mfilm]coringats-dub-720p.mp4|Referer=https://www.mmfilmes.tv$$lsname=[COLOR white][B]OPCAO 2[/COLOR][/B]</link>
-<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>http://bit.ly/37u27Tl</page></regex>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>http://bit.ly/infoteckodi</page></regex>
 <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]TORRENT[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR cadetblue][B]ELEMENTUM[/COLOR][/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
