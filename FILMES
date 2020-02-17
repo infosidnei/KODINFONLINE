@@ -5,7 +5,7 @@
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-  <info>[COLOR deeppink]|[/COLOR] - FILMES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+  <info>[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
   </channel>
   </channels>
 
@@ -17,7 +17,7 @@
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-  <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+  <info>[COLOR yellow]|[/COLOR] - SÓ OS MELHORES FILMES - [COLOR yellow]|[/COLOR]</info>
   </channel>
   </channels>
 
@@ -36,23 +36,11 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white]INFOTEC FILMES ON[/COLOR]</name>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]INFOTEC FILMES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/INFOTECFILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
   <info></info>
-
-
-<channels>
-<channel>
-<name>[COLOR yellow]|||[/COLOR] [COLOR white]JM FILMES[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMFILMESMP4</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-
-  <info>[COLOR deeppink]|[/COLOR] - FILMES Variados - [COLOR deeppink]|[/COLOR]</info>
-  </channel>
-  </channels>
 
 
 <channels>
@@ -62,7 +50,7 @@
 <externallink>http://bit.ly/MMF1602</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-  <info>[COLOR deeppink]|[/COLOR] - FILMES MM- [COLOR deeppink]|[/COLOR]</info>
+  <info>[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES MMPLAY- [COLOR deeppink]|[/COLOR]</info>
   </channel>
   </channels>
 
