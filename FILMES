@@ -4,14 +4,11 @@
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/lan%C3%A7amentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
 
+  <info>[COLOR deeppink]|[/COLOR] - FILMES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+  </channel>
+  </channels>
 
-[COLOR deeppink]|[/COLOR] - FILMES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
@@ -20,10 +17,10 @@
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+  </channel>
+  </channels>
+
 
 <channels>
 <channel>
@@ -32,10 +29,9 @@
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTOP</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
-<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+  </channel>
+  </channels>
 
 
 <channels>
@@ -44,9 +40,8 @@
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/INFOTECFILMES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
+  <info></info>
 
->>>>>>>>>>>>>>>>>>>
 
 <channels>
 <channel>
@@ -54,11 +49,10 @@
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMFILMESMP4</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
 
-[COLOR deeppink]|[/COLOR] - FILMES Variados - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+  <info>[COLOR deeppink]|[/COLOR] - FILMES Variados - [COLOR deeppink]|[/COLOR]</info>
+  </channel>
+  </channels>
 
 
 <channels>
@@ -67,11 +61,10 @@
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/novoprojeto.png</thumbnail>
 <externallink>http://bit.ly/MMF1602</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>
 
-[COLOR deeppink]|[/COLOR] - FILMES MM- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+  <info>[COLOR deeppink]|[/COLOR] - FILMES MM- [COLOR deeppink]|[/COLOR]</info>
+  </channel>
+  </channels>
 
 
 <channels>
@@ -81,6 +74,6 @@
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTORRENT.xml</externallink>
 <fanart>https://imgur.com/8bsRsDU</fanart>
 
-<info>[COLOR deeppink]|[/COLOR] OS MELHORES TORRENT [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+  <info>[COLOR deeppink]|[/COLOR] OS MELHORES TORRENT [COLOR deeppink]|[/COLOR]</info>
+  </channel>
+  </channels>
