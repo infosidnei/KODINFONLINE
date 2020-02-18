@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <channels>
 <channel>
 <name>[COLOR gold]BBB[/COLOR] AO VIVO</name>
@@ -6,9 +8,7 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>BBB 2020 AO VIVO</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]CANAIS[/COLOR] ABERTOS</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
@@ -16,9 +16,7 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS ABERTOS 24 HORAS</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]FILMES[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
@@ -26,9 +24,8 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE DOCUMENTARIOS</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
+
 <channel>
 <name>[COLOR gold]FILME E SERIES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmesseries.png</thumbnail>
@@ -36,9 +33,8 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS FILMES E SÉRIES</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
+
 <channel>
 <name>[COLOR gold]DOCUMENTÁRIOS[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/documentarios.png</thumbnail>
@@ -46,9 +42,7 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE DOCUMENTARIOS</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]ESPORTES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/esportes.png</thumbnail>
@@ -56,9 +50,7 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE ESPORTE</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]VARIEDADES[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/variedades.png</thumbnail>
@@ -66,9 +58,7 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS DE VARIEDADES</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]INFATIL[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/infantil.png</thumbnail>
@@ -76,9 +66,7 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS INFATIS</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]NOTÍCIAS[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/noticias.png</thumbnail>
@@ -86,19 +74,15 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS NOTÍCIAS</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]ESPORTE INTERNACIONAL[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/esportes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMESPORTEINTER</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>CANAIS ESPORTEs INTERNACIONAIS</info>
+<info>CANAIS ESPORTES INTERNACIONAIS</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]MULTSHOW[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -106,14 +90,11 @@
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS MULTSHOW</info>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<channels>
 <channel>
 <name>[COLOR gold]RELIGIOSO[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/religiosotv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS RELIGIOSOS</info>
-
-
+</channels>
