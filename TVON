@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR lime] ON [/COLOR] | [COLOR gold]JMS | 1[/COLOR]</name>
+<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR lime] ON [/COLOR] | [COLOR gold]JMS | 1[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JM1</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -12,7 +12,7 @@
 
 
 <channel>
-<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR red] MANUTEÇÃO [/COLOR] | [COLOR gold]JMS | 2[/COLOR]</name>
+<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR red] MANUTEÇÃO [/COLOR] | [COLOR gold]JMS | 2[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CATEGORIASTV</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -21,7 +21,7 @@
 
 
 <channel>
-<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR red] MANUTENÇÃO [/COLOR] | [COLOR gold]JMS | 3[/COLOR]</name>
+<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR lime] ON [/COLOR] | [COLOR gold]JMS | 3[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS3</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -29,7 +29,7 @@
 </channel>
 
 <channel>
-<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR lime] ON [/COLOR] | [COLOR gold]JMS | 4[/COLOR]</name>
+<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR lime] ON [/COLOR] | [COLOR gold]JMS | 4[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS4</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -37,7 +37,7 @@
 </channel>
 
 <channel>
-<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR red] MANUTENÇÃO [/COLOR] | [COLOR gold]JMS | 5[/COLOR]</name>
+<name>-> [COLOR lime]CANAIS[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR red] MANUTENÇÃO [/COLOR] | [COLOR gold]JMS | 5[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS2</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -46,7 +46,7 @@
  
   
 <channel>
-<name>-> [COLOR lime]SERVIDOR[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR gold]1[/COLOR] | [COLOR red]MANUTENÇÃO[/COLOR]</name>
+<name>-> [COLOR lime]SERVIDOR[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR gold]1[/COLOR] | [COLOR red]MANUTENÇÃO[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/servidormanutecao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CNABVATV</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -55,7 +55,7 @@
 
 
 <channel>
-<name>-> [COLOR lime]SERVIDOR[/COLOR] | [COLOR red]IPTV[/COLOR] | [COLOR gold]2[/COLOR] | [COLOR red]MANUTENÇÃO[/COLOR]</name>
+<name>-> [COLOR lime]SERVIDOR[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR gold]2[/COLOR] | [COLOR red]MANUTENÇÃO[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/servidormanutecao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS4</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
