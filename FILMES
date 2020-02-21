@@ -54,6 +54,15 @@
   </channel>
   </channels>
 
+<channels>
+<channel>
+<name>[COLOR yellow]|||[/COLOR] [COLOR white]FILMES RDC[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/novoprojeto.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/RDCFILMES</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+
+  <info>[COLOR deeppink]|[/COLOR] OS MELHORES RDC [COLOR deeppink]|[/COLOR]</info>
+  </channel>
 
 <channels>
 <channel>
