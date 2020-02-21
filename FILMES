@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES [COLOR gold]LANÇAMENTOS[/COLOR[/COLOR]</name>
+<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES [COLOR gold]LANÇAMENTOS[/COLOR]</name>
 <thumbnail>https://i.imgur.com/o0Lg7lN.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -8,7 +8,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]CINEMA[/COLOR[/COLOR]</name>
+<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]CINEMA[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/cinemaonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -16,7 +16,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TOP[/COLOR][/COLOR]</name>
+<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TOP[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTOP</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -24,7 +24,7 @@
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR white]INFOTEC FILMES[/COLOR]</name>
+<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]INFOTEC[/COLOR]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/INFOTECFILMES</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
