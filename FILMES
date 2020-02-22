@@ -1,58 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <channels>
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES [COLOR gold]LANÇAMENTOS[/COLOR]</name>
-<thumbnail>https://i.imgur.com/o0Lg7lN.png</thumbnail>
+<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES [COLOR gold]LANÇAMENTOS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]º [/COLOR]OS MELHORES LANÇAMENTOS[COLOR deeppink] º[/COLOR]</info>
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]CINEMA[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/cinemaonline.png</thumbnail>
+<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]CINEMA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[COLOR yellow]|[/COLOR] - SÓ OS MELHORES FILMES - [COLOR yellow]|[/COLOR]</info>
+<info>[COLOR yellow]º [/COLOR]SÓ OS MELHORES FILMES[COLOR yellow] º[/COLOR]</info>
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TOP[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
+<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TOP[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTOP</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+<info>[COLOR yellow]º [/COLOR] Este projeto está em desenvolvimento [COLOR yellow] º[/COLOR]</info>
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]INFOTEC[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/emmanutencao.png</thumbnail>
+<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]INFOTEC[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/INFOTECFILMES</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]M.M.PLAY[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/novoprojeto.png</thumbnail>
+<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]M.M.PLAY[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>http://bit.ly/MMF1602</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES MMPLAY- [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]º [/COLOR] - OS MELHORES FILMES MMPLAY- [COLOR deeppink] º[/COLOR]</info>
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]R.D.C[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/novoprojeto.png</thumbnail>
+<name>[B][COLOR yellow]º [/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]R.D.C[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/RDCFILMES</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR] OS MELHORES RDC OFF-LINE [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]º [/COLOR] OS MELHORES RDC OFF-LINE [COLOR deeppink] º[/COLOR]</info>
 </channel>
 
 <channel>
-<name>[COLOR yellow]->[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TORRENT[/COLOR]</name>
-<thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/novoprojeto.png</thumbnail>
+<name>[B][COLOR yellow]º [/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TORRENT[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTORRENT</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR] OS MELHORES TORRENT [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]º [/COLOR] OS MELHORES TORRENT [COLOR deeppink] º[/COLOR]</info>
 </channel>
 
 </channels>
