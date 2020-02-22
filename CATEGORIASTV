@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]BBB[/COLOR] AO VIVO</name>
+<name>[B]º [COLOR gold]BBB[/COLOR] AO VIVO[/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/aovivo.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/BBB</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -10,7 +10,7 @@
 
 
 <channel>
-<name>[COLOR gold]CANAIS[/COLOR] ABERTOS</name>
+<name>[B]º [COLOR gold]CANAIS[/COLOR] ABERTOS[/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CNABERTOS</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -18,7 +18,7 @@
 
 
 <channel>
-<name>[COLOR gold]FILMES[/COLOR]</name>
+<name>[B]º [COLOR gold]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/filmestv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -27,7 +27,7 @@
 
 
 <channel>
-<name>[COLOR gold]FILME E SERIES[/COLOR]</name>
+<name>[B]º [COLOR gold]FILME E SERIES[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/filmesseries.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/filmseriestv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -36,7 +36,7 @@
 
 
 <channel>
-<name>[COLOR gold]DOCUMENTÁRIOS[/COLOR]</name>
+<name>[B]º [COLOR gold]DOCUMENTÁRIOS[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/documentarios.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/document</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -44,7 +44,7 @@
 
 
 <channel>
-<name>[COLOR gold]ESPORTES[/COLOR]</name>
+<name>[B]º [COLOR gold]ESPORTES[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/esportes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/ESPORTES</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -52,7 +52,7 @@
 
 
 <channel>
-<name>[COLOR gold]VARIEDADES[/COLOR]</name>
+<name>[B]º [COLOR gold]VARIEDADES[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/variedades.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/variedades</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -60,7 +60,7 @@
 
 
 <channel>
-<name>[COLOR gold]INFATIL[/COLOR]</name>
+<name>[B]º [COLOR gold]INFATIL[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/infantil.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/infantil</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -68,7 +68,7 @@
 
 
 <channel>
-<name>[COLOR gold]NOTÍCIAS[/COLOR]</name>
+<name>[B]º [COLOR gold]NOTÍCIAS[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/noticias.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/noticiastv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -76,7 +76,7 @@
 
 
 <channel>
-<name>[COLOR gold]ESPORTE INTERNACIONAL[/COLOR]</name>
+<name>[B]º [COLOR gold]ESPORTE INTERNACIONAL[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/24/items/repoinfotec/esportes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMESPORTEINTER</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -84,7 +84,7 @@
 
 
 <channel>
-<name>[COLOR gold]MULTSHOW[/COLOR]</name>
+<name>[B]º [COLOR gold]MULTSHOW[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/multshowtv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -92,7 +92,7 @@
 
 
 <channel>
-<name>[COLOR gold]RELIGIOSO[/COLOR]</name>
+<name>[B]º [COLOR gold]RELIGIOSO[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/religiosotv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
