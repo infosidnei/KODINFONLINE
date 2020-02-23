@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES [COLOR gold]LANÇAMENTOS[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]LANÇAMENTOS[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/LANCAMENTOS</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]CINEMA[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]CINEMA[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CINEMAEMCASA</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TOP[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]TOP[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTOP</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]INFOTEC[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]INFOTEC[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/INFOTECFILMES</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -34,7 +34,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]º[/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]M.M.PLAY[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]M.M.PLAY[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>http://bit.ly/MMF1602</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -42,7 +42,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]º [/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]R.D.C[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orang]FILMES[/COLOR] [COLOR salmon]R.D.C[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/RDCFILMES</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
@@ -50,7 +50,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]º [/COLOR] [COLOR lime]FILMES[/COLOR] [COLOR gold]TORRENT[/COLOR][/B]</name>
+<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]TORRENT[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESTORRENT</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
