@@ -2,10 +2,19 @@
 
 <channels>
 <channel>
-<name>24 HORAS</name>
-<thumbnail>https://imgur.com/o0Lg7lN</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei3/viptec/master/24HORAS</externallink>
-<fanart>https://i.imgur.com/s25oMKq.png</fanart>
-<info></info>
+<name>24 Horas (2001)</name>
+<thumbnail>https://image.tmdb.org/t/p/w1280/3m83XvlgjIMeBtCHlIyLAsa2GZ1.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zyiX7iPUfuxV4ZAuCaTdmFeEYLQ.jpg</fanart>
+<info>Sinopse
+O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.</info>
 </channel>
+
+<channel>
+<name>24 Horas EPISÓDIO - 01</name>
+<thumbnail>https://image.tmdb.org/t/p/w1280/3m83XvlgjIMeBtCHlIyLAsa2GZ1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/24horas01</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zyiX7iPUfuxV4ZAuCaTdmFeEYLQ.jpg</fanart>
+<info></info>
+</channel>  
 </channels>
