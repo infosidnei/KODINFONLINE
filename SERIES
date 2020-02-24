@@ -1,1 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+<channels>
+<channel>
+<name>[COLOR lime]>>>[/COLOR] [COLOR orange]NOVAS SÉRIES[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://nadaaver</extenallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLOR lime]>>>[/COLOR] [COLOR orange]SERIES TOP[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/24HORAS</extenallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
