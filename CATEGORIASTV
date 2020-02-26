@@ -84,15 +84,15 @@
   
 <channel>
 <name>[B][COLOR lime]>>>[/COLOR] [COLOR gold]CANAIS 24 HORAS[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
+<thumbnail>https://i.imgur.com/2hV7tj0.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CANAISTV24HORAS</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS 24 HORAS</info>
 
 
 <channel>
 <name>[B][COLOR lime]>>>[/COLOR] [COLOR gold]MULTSHOW[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/2hV7tj0.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/multshowtv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS MULTSHOW</info>
@@ -100,7 +100,7 @@
 
 <channel>
 <name>[B][COLOR lime]>>>[/COLOR] [COLOR gold]RELIGIOSO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/2hV7tj0.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/religiosotv</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>CANAIS RELIGIOSOS</info>
