@@ -57,4 +57,11 @@
 <info>[COLOR deeppink]º [/COLOR] OS MELHORES TORRENT [COLOR deeppink] º[/COLOR]</info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]VARIADOS[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESVARIADOS</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>[COLOR deeppink]º [/COLOR] OS MELHORES[COLOR deeppink] º[/COLOR]</info>
+</channel>  
 </channels>
