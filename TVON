@@ -19,15 +19,6 @@
 <info>[COLOR deeppink]º[/COLOR] [COLOR yellow]TESTE IPTV OU P2P JM SERVICO[/COLOR] º[COLOR fuchsia]WHATSAPP[/COLOR]- 12982190306 - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 
-
-<channel>
-<name>[B]º [COLOR lime]CANAIS[/COLOR] [COLOR goldenrod]IPTV[/COLOR] [COLOR lime]ON[/COLOR] [COLOR gold]JMS 3[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CANAISINTERNACIONAISESPORT</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR deeppink]º[/COLOR] [COLOR yellow]TESTE IPTV OU P2P JM SERVICO[/COLOR] º[COLOR fuchsia]WHATSAPP[/COLOR]- 12982190306 - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-
 <channel>
 <name>[B]º [COLOR lime]CANAIS[/COLOR] [COLOR goldenrod]IPTV[/COLOR] [COLOR lime]ON[/COLOR] [COLOR gold]JMS 4[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
@@ -37,7 +28,7 @@
 </channel>
 
 <channel>
-<name>[B]º [COLOR lime]CANAIS[/COLOR] [COLOR goldenrod]IPTV[/COLOR] [COLOR lime]ON[/COLOR] [COLOR gold]JMS 5[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] |  [COLOR salmon]IPTV[/COLOR] | [COLOR lime]ON[/COLOR] | [COLOR gold]JMS 5[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS2</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -62,4 +53,12 @@
 <info>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]SERVIDOR[/COLOR] | [COLOR salmon]IPTV[/COLOR] [COLOR gold]3[/COLOR] [COLOR lime]ON[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CANALTV8</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info></info>
+</channel>
+ 
 </channels>
