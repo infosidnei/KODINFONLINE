@@ -63,5 +63,13 @@
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/FILMESVARIADOS</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>[COLOR deeppink]º [/COLOR] OS MELHORES[COLOR deeppink] º[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]01[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/iptv/FILMES01</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>[COLOR deeppink]º [/COLOR]VARIOS FILMES [COLOR deeppink] º[/COLOR]</info>
 </channel>  
 </channels>
