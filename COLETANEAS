@@ -1,1 +1,18 @@
+<channels>
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]BATMAN[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5BhzubDztqoBzv5ujYSiq65fPB7.jpg</thumbnail>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/MOVIES/BATMAN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/reQewz6KndV7Js2mfLfaaX8Rj0T.jpg</fanart>
+<info>[COLOR deeppink]º [/COLOR]COLETANEA BATMAN [COLOR deeppink] º[/COLOR]</info>
+</channel>
 
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon][/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://fazendo ainda</externallink>
+<fanart></fanart>
+<info>[COLOR deeppink]º [/COLOR] [COLOR deeppink] º[/COLOR]</info>
+</channel>
+
+</channels>
