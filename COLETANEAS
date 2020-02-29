@@ -10,10 +10,18 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] | [COLOR salmon]CARGA EXPLOSIVA[/COLOR] | [COLOR gold]2002 / 2019[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] | [COLOR salmon]CARGA EXPLOSIVA[/COLOR] | [COLOR gold](2002 / 2019)[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w1280/iti0ub1R6JBCfwJarLktNL47HC.jpg</thumbnail>
 <externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/COLETANEAS/cargaexplo</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wxC0fO9fkNvdLr2joeE4AypuA3s.jpg</fanart>
+<info>[COLOR deeppink]º [/COLOR] COLETANEA [COLOR deeppink] º[/COLOR]</info>
+</channel>
+  
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] | [COLOR salmon]CAPITÃO AMÉRICA[/COLOR] | [COLOR gold](2011 / 2016)[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w1280/hELwrdHbiSkfih8haTH4AzozHCb.jpg</thumbnail>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/COLETANEAS/capitamerica</externallink>
+<fanart></fanart>
 <info>[COLOR deeppink]º [/COLOR] COLETANEA [COLOR deeppink] º[/COLOR]</info>
 </channel>
 
