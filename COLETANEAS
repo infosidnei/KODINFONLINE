@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]BATMAN[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] | [COLOR salmon]BATMAN[/COLOR] | [COLOR gold]1966 / 2019[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5BhzubDztqoBzv5ujYSiq65fPB7.jpg</thumbnail>
 <externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/MOVIES/BATMAN</externallink>
 <fanart>https://image.tmdb.org/t/p/original/reQewz6KndV7Js2mfLfaaX8Rj0T.jpg</fanart>
@@ -10,8 +10,8 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] | [COLOR salmon]CARGA EXPLOSIVA[/COLOR] 2002 / 2015[/B]</name>
-<thumbnail></thumbnail>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] | [COLOR salmon]CARGA EXPLOSIVA[/COLOR] | [COLOR gold]2002 / 2019[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w1280/iti0ub1R6JBCfwJarLktNL47HC.jpg</thumbnail>
 <externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/COLETANEAS/cargaexplo</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wxC0fO9fkNvdLr2joeE4AypuA3s.jpg</fanart>
 <info>[COLOR deeppink]º [/COLOR] COLETANEA [COLOR deeppink] º[/COLOR]</info>
