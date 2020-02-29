@@ -71,5 +71,13 @@
 <externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/iptv/FILMES01</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>[COLOR deeppink]º [/COLOR]VARIOS FILMES [COLOR deeppink] º[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]BATMAN[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/MOVIES/BATMAN</externallink>
+<fanart></fanart>
+<info>[COLOR deeppink]º [/COLOR]VARIOS FILMES DO BATMAN [COLOR deeppink] º[/COLOR]</info>
 </channel>  
 </channels>
