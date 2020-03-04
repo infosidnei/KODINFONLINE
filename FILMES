@@ -79,5 +79,14 @@
 <externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/categorias/coletaneas</externallink>
 <fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
 <info>[COLOR deeppink]º [/COLOR]COLETANEAS DE FILMES[COLOR deeppink] º[/COLOR]</info>
-</channel>  
+</channel>
+  
+<channel>
+<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR] [COLOR salmon]2019[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/MOVIES/novosfilmes</externallink>
+<fanart>https://i.imgur.com/8bsRsDU.jpg</fanart>
+<info>[COLOR deeppink]º [/COLOR]FILMES 2019[COLOR deeppink] º[/COLOR]</info>
+</channel</channels>
+
 </channels>
