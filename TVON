@@ -53,9 +53,9 @@
 
 
 <channel>
-<name>[B][COLOR orangered]>>>[/COLOR] | [COLOR lime]SERVIDOR[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR orangered][I]manutenção[/I][/COLOR] | [COLOR gold]3[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR lime]SERVIDOR[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR lime][I]on[/I][/COLOR] | [COLOR gold]3[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/PPWIL</externallink>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/iptv/esportevarios</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
  <info>CANAIS CATEGARIAS</info>
 </channel>
