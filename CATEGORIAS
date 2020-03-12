@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]CANAIS[/COLOR] [COLOR salmon]IPTV[/COLOR][I]Manutenção[/I][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR salmon]IPTV[/COLOR][/B] | [I]Manutenção[/I]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/TVON</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]>>>[/COLOR] [COLOR orange]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/SdPqXEX.png</thumbnail>
 <externallink>https://gitlab.com/infosidneivip3/infoteonline/-/raw/master/MOVIES/FILMES.XML</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR yellow]>>>[/COLOR] [COLOR orange]SÉRIES[/COLOR][/B] [COLOR salmon][I]manutenção[/I][/COLOR]</name>
+<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]SÉRIES[/COLOR][/B] | [I]Manutenção[/I]</name>
 <thumbnail>https://i.imgur.com/Xisjdcg.png</thumbnail>
 <externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/categorias/series</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
