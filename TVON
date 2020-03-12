@@ -10,29 +10,12 @@
 <info>[COLOR deeppink]º[/COLOR] [COLOR yellow]TESTE IPTV OU P2P JM SERVICO[/COLOR] º[COLOR fuchsia]WHATSAPP[/COLOR]- 12982190306 - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 
-
-<channel>
-<name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR orangered][I]manutenção[/I][/COLOR] | [COLOR gold]JMS 2[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/CATEGORIASTV</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR deeppink]º[/COLOR] [COLOR yellow]TESTE IPTV OU P2P JM SERVICO[/COLOR] º[COLOR fuchsia]WHATSAPP[/COLOR]- 12982190306 - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-
 <channel>
 <name>[B][COLOR lime]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] | [COLOR salmon]IPTV[/COLOR] | [COLOR lime]ON[/COLOR] | [COLOR gold]JMS 3[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS4</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>[COLOR deeppink]º[/COLOR] [COLOR yellow]TESTE IPTV OU P2P JM SERVICO[/COLOR] º[COLOR fuchsia]WHATSAPP[/COLOR]- 12982190306 - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-
-<channel>
-<name>[B][COLOR orangered]>>>[/COLOR] | [COLOR orange]CANAIS[/COLOR] |  [COLOR salmon]IPTV[/COLOR] | [COLOR orangered][I]manutenção[/I][/COLOR] | [COLOR gold]JMS 4[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/JMS2</externallink>
-<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
-<info>[COLOR deeppink]º[/COLOR] [COLOR yellow]TESTE IPTV OU P2P JM SERVICO[/COLOR] º [COLOR fuchsia]WHATSAPP[/COLOR]- 12982190306 - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 
 <channel>
@@ -46,11 +29,10 @@
 <channel>
 <name>[B][COLOR lime]>>>[/COLOR] | [COLOR lime]SERVIDOR[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR lime][I]ON[/I][/COLOR] | [COLOR gold]OPÇÃO 2[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/zhqq5sS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/infosidnei/KODINFONLINE/master/RDCIPTV</externallink>
+<externallink>https://gitlab.com/infosidneivip3/infotecvip/-/raw/master/iptv/SERVIDOR02</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 <info>
 </channel>
-
 
 <channel>
 <name>[B][COLOR lime]>>>[/COLOR] | [COLOR lime]SERVIDOR[/COLOR] | [COLOR goldenrod]IPTV[/COLOR] | [COLOR lime][I]ON[/I][/COLOR] | [COLOR gold]OPÇÃO 3[/COLOR][/B]</name>
@@ -60,6 +42,4 @@
  <info>CANAIS CATEGARIAS</info>
 </channel>
 
-
- 
 </channels>
